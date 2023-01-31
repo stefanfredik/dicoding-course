@@ -1,0 +1,5147 @@
+    1  ls
+    2  sudo su
+    3  lscpu
+    4  sudo apt install wine
+    5  sudo dpkg -i WineGUI-v1.5.4.deb 
+    6  sudo apt install wine
+    7  apt --fix-broken install
+    8  sudo apt --fix-broken install
+    9  sudo apt install php
+   10  sudo apt install unity-tweak-tool
+   11  sudo apt install gnome-tweak-tool
+   12  sudo apt install gnome-tweak-tools
+   13  sudo apt install gnome-tweak-tool
+   14  sudo add-apt-repository universe
+   15  sudo apt install gnome-tweak-tool
+   16  sudo apt install gnome-tweaks
+   17  sudo apt install gnome-shell-extension
+   18  sudo apt install  gnome-shell-extension-gsconnect
+   19  sudo apt install gnome-shell-extensions
+   20  php spark serve
+   21  php -v
+   22  sudo apt install composer
+   23  php spark serve
+   24  sudo apt install php-curl
+   25  php spark serve
+   26  sudo apt install php-xml
+   27  php spark serve
+   28  wine -v
+   29  wine --version
+   30  lsb_release
+   31  uname -a
+   32  ubuntu-distro-info
+   33  lsb_release -a
+   34  sudo dpkg -i PlayOnLinux_4.3.4.deb
+   35  sudo apt --fix-missing install
+   36  sudo apt --fix-broken install
+   37  df -h
+   38  sudo apt install bottles
+   39  sudo apt install flatpak
+   40  sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+   41  flatpak install flathub com.usebottles.bottles
+   42  wine --help
+   43  wine --configure
+   44  winecfg
+   45  ping 10.70.89.19
+   46  ls
+   47  dpkg -i Termius.deb
+   48  sudo dpkg -i Termius.deb
+   49  ls
+   50  cd /
+   51  ls
+   52  tree
+   53  ls
+   54  apt install
+   55  sudo su
+   56  sudo apt install nmap
+   57  ifconfig
+   58  sudo apt install network-tools
+   59  sudo apt install network-tool
+   60  sudo apt install net-tool
+   61  sudo apt install net-tools
+   62  ifconfig
+   63  uname -a
+   64  sudo apt install htop
+   65  htop
+   66  apt install virtualbox
+   67  sudo apt install virtualbox
+   68  dig
+   69  dig jinom.net
+   70  cat /etc/resolv.conf
+   71  re]
+   72  cat /etc/resolv.conf
+   73  ping google.com
+   74  dig google.com
+   75  dig jinom.net
+   76  dig localhost
+   77  dig
+   78  ifconfig
+   79  sudo add-apt-repository ppa:gns3/unstable\nsudo apt-get update\nsudo apt-get install gns3-webclient-pack
+   80  apt update
+   81  sudo apt update
+   82  sudo dpkg -i gns3-webclient-pack_1.0.0b3_impish1_amd64.deb
+   83  sudo apt --fix-broken install
+   84  apt update
+   85  sudo 
+   86  sudo  apt update
+   87  apt upgrade -y
+   88  sudo apt upgrade -y
+   89  sudo su
+   90  exit
+   91  sudo su
+   92  htop
+   93  sudo apt install indicator-multiload
+   94  pulseaudio -
+   95  sudo apt install smb
+   96  sudo apt install samba
+   97  ls
+   98  cd /
+   99  npm
+  100  sudo apt install npm
+  101  npm -v
+  102  php spark serve
+  103  sudo python3 -m pip install gns3-webclient-pack
+  104  sudo apt install pip
+  105  sudo python3 -m pip install gns3-webclient-pack
+  106  python3 -m pip install gns3-webclient-pack
+  107  sudo python3 -m pip install gns3-webclient-pack
+  108  wget -qO- https://raw.githubusercontent.com/GNS3/gns3-webclient-pack/master/install.sh | sh
+  109  gns3-webclient-config
+  110  gns3-webclient-launcher 
+  111  sudo gns3-webclient-launcher 
+  112  VBoxManage modifyvm vm-name --nested-hw-virt on
+  113  VBoxManage modifyvm GNS3-VM --nested-hw-virt on
+  114  VBoxManage modifyvm "GNS3 VM" --nested-hw-virt on
+  115  telnet 192.168.50.126:5004
+  116  telnet 192.168.50.126
+  117  ping 192.168.50.126
+  118  ping 192.168.50.126:5000
+  119  telnet 192.168.50.126:5000
+  120  telnet 192.168.50.126
+  121  sudo apt install Dolphin
+  122  sudo apt install dolphin
+  123  ftp 103.122.65.86
+  124  ftp 103.122.65.86/ts
+  125  ftp 103.122.65.86
+  126  gio
+  127  gio mount smb://103.122.65.86/ts
+  128  sudo firewall-cmd
+  129  sudo apt install firewall-cmd
+  130  iptables -L -n -v
+  131  sudo iptables -L -n -v
+  132  ping 192.168.50.129
+  133  sudo add-apt-repository ppa:gns3/ppa\nsudo apt update                                \nsudo apt install gns3-gui gns3-server
+  134  whois
+  135  sudo apt install whois
+  136  whois google.com
+  137  sudo dpkg --add-architecture i386\nsudo apt update\nsudo apt install gns3-iou
+  138  sudo apt remove docker docker-engine docker.io
+  139  sudo apt-get install apt-transport-https ca-certificates curl \ software-properties-common
+  140  sudo apt install docker-ce
+  141  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  142  sudo add-apt-repository \\n"deb [arch=amd64] https://download.docker.com/linux/ubuntu \\n   $(lsb_release -cs) stable"
+  143  sudo apt install docker-ce
+  144  ubridge libvirt kvm wireshark docker
+  145  sudo ubridge libvirt kvm wireshark docker
+  146  sudo apt install ubridge
+  147  apt install vpcs
+  148  sudo apt install vpcs
+  149  sudo apt install ubridge
+  150  which ubridge
+  151  where ubridge
+  152  sudo ubridge
+  153  sudo gns3
+  154  sudo chmod 777 /usr/bin/ubridge*
+  155  sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+  156  bridge
+  157  sudo bridge --help
+  158  nmap 192.168.50.187
+  159  cd /
+  160  cd 
+  161  cd Downloads
+  162  sudo dpkg -i imager_1.7.2_amd64.deb
+  163  sudo apt -f install
+  164  rpi-imager
+  165  sudo apt install kocnole
+  166  sudo apt install konsole
+  167  ls
+  168  cd /
+  169  ls
+  170  sudo gns3
+  171  sudo dpkg --add-architecture i386
+  172  wget http://ppa.launchpad.net/gns3/ppa/ubuntu/pool/main/d/dynamips dynamips_0.2.21-1~eoan1_i386.deb
+  173  ls
+  174  sudo dpkg -i dynamips
+  175  reboot
+  176  ping 10.70.86.27
+  177  tracert
+  178  sudo apt install traceroute
+  179  sudo traceroute 10.70.86.27
+  180  ssh 10.70.86.27
+  181  ssh admin@10.70.86.27
+  182  sudo groupadd docker
+  183  sudo usermod -aG docker $USER
+  184  sudo chmod 666 /var/run/docker.sock
+  185  traceroute 10.70.110.40
+  186  ls
+  187  touch LinuxNetwork.txt
+  188  sudo gedit LinuxNetworking.txt
+  189  sudo dpkg -i insync_3.7.6.50356-jammy_amd64.deb 
+  190  ping 10.70.89.169
+  191  sudo apt update
+  192  apt upgrade -y
+  193  sudo apt upgrade -y
+  194  ls
+  195  npm run serve
+  196  vue create profile
+  197  vue
+  198  npm
+  199  vue
+  200  npm install -g @vue/cli
+  201  sudo npm install -g @vue/cli
+  202  npm fund
+  203  vue create profile
+  204  npm run serve
+  205  ls
+  206  cd profile
+  207  ls
+  208  npm run serve
+  209  ls
+  210  cd profile
+  211  ls
+  212  vue add bootstrap
+  213  vue add router
+  214  npm install bootstrap
+  215  vue add bootsrap
+  216  ls
+  217  vue add bootsrap
+  218  vue add bootstrap
+  219  npm i @popperjs/core
+  220  npm install --save bootstrap
+  221  npm install --save @popperjs/core
+  222  npm run serve
+  223  poweroff
+  224  sudo apt install vncviewer
+  225  sudo apt install tigervnc-viewer
+  226  reboot
+  227  poweroff
+  228  ping 8.8.8.8
+  229  ping instagram.com
+  230  ping -h
+  231  ping -4 31.13.95.174
+  232  ping -6 31.13.95.174
+  233  ping -h
+  234  ping -4 31.13.95.174
+  235  ping instagram.com
+  236  ping -4 instagram.com
+  237  ping instagram.com
+  238  ls
+  239  exit
+  240  sudo su
+  241  ls
+  242  npm run serve
+  243  ls
+  244  l
+  245  ls
+  246  npm run serve
+  247  ls -lah
+  248  sudo su
+  249  ls
+  250  cd /
+  251  dir
+  252  ping 10.70.89.168
+  253  sudo s
+  254  sudo su
+  255  ls
+  256  php spark serve
+  257  ls
+  258  ls -lah
+  259  php spark serve
+  260  sudo php spark serve
+  261  ls
+  262  cd writable
+  263  ls
+  264  ls -lah
+  265  cd cache
+  266  ls
+  267  ls -lah
+  268  cd ..
+  269  ls
+  270  cd ..
+  271  composer update
+  272  ls
+  273  php spark serve
+  274  ls -lah
+  275  cd writable
+  276  ls
+  277  l
+  278  cd cache
+  279  l
+  280  cd ..
+  281  ls
+  282  cd ..
+  283  ls
+  284  l
+  285  composer update
+  286  reboot
+  287  ping 192.168.1.200
+  288  ping http://192.168.1.200/
+  289  ping 192.168.1.200
+  290  ping 192.168.1.1
+  291  ping 192.168.1.200
+  292  php spark serve
+  293  sudo apt install plank
+  294  plank --help
+  295  plank --preferences
+  296  df -h
+  297  reboot
+  298  plank
+  299  ping 8.8.8.8
+  300  ls
+  301  sudo su
+  302  ls
+  303  clear
+  304  ls
+  305  telnet 192.168.39.2
+  306  sudo apt install cmatrix
+  307  cmatrix
+  308  ls
+  309  cmatrix 
+  310  tree /
+  311  sudo apt install tree
+  312  tree /
+  313  clear
+  314  htop
+  315  poweroff
+  316  ld
+  317  ls
+  318  win dude-install-6.47.3.exe
+  319  wine dude-install-6.47.3.exe
+  320  ping 192.168.33.1
+  321  ping 8.8.8.8
+  322  ping 10.70.87.58
+  323  nmap 10.70.87.58
+  324  nmap 10.70.87.58 -Pn
+  325  telnet 10.70.87.58
+  326  ping 10.70.65.197
+  327  xkill
+  328  reboot
+  329  ping 8.8.8.8
+  330  php spark serve
+  331  xkill
+  332  reboot
+  333  sudo su
+  334  sudo service --status-all
+  335  nmap 103.122.65.67
+  336  php spark serve
+  337  cmatrix
+  338  sudo apt innstall shuter
+  339  sudo apt install shuter
+  340  sudo add-apt-repository ppa:linuxuprising/shutter\nsudo apt update
+  341  sudo apt install shuter
+  342  sudo apt install shutter
+  343  sudo apt install shutter --fix-missing
+  344  ping twitter.com
+  345  ping twiter.com
+  346  traceroute twitter.com
+  347  ping 8.8.8.8
+  348  ping abs.twimg.com
+  349  pt-get install webhttrack
+  350  apt-get install webhttrack
+  351  sudo apt-get install webhttrack
+  352  omz update
+  353  exit
+  354  htop
+  355  sudo dpkg -i anydesk_6.1.1-1_amd64.deb
+  356  sudo apt install  libgtkglext1
+  357  sudo apt install --fix-missing
+  358  anydesk
+  359  sudo apt install libgtkglext1
+  360  anydesk
+  361  get http://ftp.us.debian.org/debian/pool/main/p/pangox-compat/libpangox-1.0-0_0.0.2-5.1_amd64.deb
+  362  wget http://ftp.us.debian.org/debian/pool/main/p/pangox-compat/libpangox-1.0-0_0.0.2-5.1_amd64.deb
+  363  ls
+  364  sudo dpkg -i libpangox-1.0-0_0.0.2-5.1_amd64.deb
+  365  anydesk
+  366  ls
+  367  mkdir SOftware
+  368  ls
+  369  rm SOftware
+  370  ls
+  371  rmdir SOftware
+  372  mkdir SOftware
+  373  mv SOftware Software
+  374  cd Software
+  375  ls
+  376  wget http://packages.netxms.org/netxms-release-latest.deb
+  377  sudo dpkg -i netxms-release-latest.deb
+  378  apt update
+  379  sudo apt update
+  380  xkill
+  381  java -v
+  382  javac -v
+  383  sudo apt install open-jdk
+  384  sudo apt install java
+  385  sudo apt install openjdk
+  386  sudo snamp openjdk
+  387  sudo snap openjdk
+  388  sudo snap install openjdk
+  389  java
+  390  javac
+  391  java
+  392  whois
+  393  whois google.com
+  394  dig jinom.net
+  395  sudo apt install apt-get install ipcalc
+  396  apt-get install ipcalc
+  397  sudo  apt-get install ipcalc
+  398  ipcal
+  399  ipcalc
+  400  ipcalc 192.168.0/24
+  401  ipcalc 192.168.1-255
+  402  ipcalc 192.168.1 192.168.1.255
+  403  ipcalc 192.168.1 192.168.1.254
+  404  ipcalc 192.168.1/24
+  405  ipcalc 192.168.1.0/24
+  406  mtr 8.8.8.8
+  407  mtr --help
+  408  ls
+  409  curl -iL google.com
+  410  curl -iL jinom.net
+  411  sudo nano /etc/hosts
+  412  ping 10.70.89.20
+  413  nano powershell.sh
+  414  chmod +x powershell.sh
+  415  ./powershell.sh
+  416  pwsh
+  417  nano convert.ps1
+  418  chmod +x convert.ps1
+  419  pwsh
+  420  pip install zabbix-api
+  421  php spark serve
+  422  sudo apt install yt-dlp
+  423  yt-dlp
+  424  yt-dlp --help
+  425  cd Downloads
+  426  mkdir music
+  427  cd music
+  428  yt-dlp -f 'ba' -x --audio-format mp3 https://www.youtube.com/watch\?v\=LrUvu1mlWco
+  429  yt-dlp -f 'ba' -x --audio-format mp3 https://www.youtube.com/watch\?v\=fKopy74weus
+  430  yt-dlp -f 'ba' -x --audio-format mp3 https://www.youtube.com/watch\?v\=w4s6H4ku6ZY
+  431  yt-dlp -f 'ba' -x --audio-format mp3 https://www.youtube.com/watch\?v\=U3ASj1L6_sY
+  432  poweroff
+  433  ls
+  434  cd /media/homenet/Data
+  435  ls
+  436  mkdir github
+  437  cd github
+  438  ls
+  439  sudo apt install gh
+  440  ls
+  441  gh repo clone stefanfredik/hello-word
+  442  gh auth login
+  443  l
+  444  ls
+  445  l
+  446  ls
+  447  gh repo clone stefanfredik/hello-word
+  448  ls
+  449  cd hello-word
+  450  ls
+  451  touch hello-word.py
+  452  ls
+  453  nano hello-word.py
+  454  git push hello-word.py
+  455  git commit -m "Python"
+  456  git remote add origin https://github.com/stefanfredik/hello-word.git
+  457  git push -u origin master
+  458  ls
+  459  git --help
+  460  git status
+  461  git add hello-word.py
+  462  ls
+  463  git status
+  464  git commit -m "Python"
+  465  git push -u origin master
+  466  ls
+  467  git --help
+  468  git init
+  469  git push -u origin master
+  470  show logs
+  471  show log
+  472  git log
+  473  git branch
+  474  ls
+  475  git remote add origin https://github.com/stefanfredik/hello-word.git
+  476  git push -h
+  477  git remote -v
+  478  git push origin main
+  479  ls
+  480  git commit
+  481  git config --global user.email 'stefanfredik@gmail.com'
+  482  git config --global user.name "stefanfredik"
+  483  git commit
+  484  ping 161.202.213.134
+  485  mtr
+  486  mtr 10.70.93.75
+  487  dig dikproject.my.id
+  488  whois http://149.137.46.96/
+  489  whois 149.137.46.96
+  490  whois 75.2.53.94
+  491  adb
+  492  ssh jinom@10.70.89.20
+  493  sudo su
+  494  1718
+  495  sudo su
+  496  php spark serve
+  497  whois 119.81.204.42
+  498  whois 149.154.165.136
+  499  xkill 
+  500  ping 10.9.9.149
+  501  sudo su
+  502  php spark serve
+  503  nmap 192.168.1.0/24
+  504  nmap 192.168.1.1-254
+  505  nmap -p 192.168.1.1-254
+  506  nmap -p- 192.168.1.1-254
+  507  nmap  -sP 192.168.10.0/24
+  508  mtr facebook.com
+  509  php spark serve
+  510  ls
+  511  cd backend
+  512  php spark serve
+  513  ls
+  514  cd frontend
+  515  ls
+  516  vue start
+  517  vue serve
+  518  ls
+  519  cd public
+  520  ls
+  521  cd zte
+  522  ls
+  523  cd ..
+  524  ls
+  525  ./comm.py "show clock"
+  526  ls
+  527  ls -l
+  528  python3.10 comm.py "show clock"
+  529  cat comm.py
+  530  python3.10 comm.py "show clock"
+  531  python comm.py "show clock"
+  532  python3 comm.py "show clock"
+  533  ls
+  534  cd frontend
+  535  ls
+  536  npm build
+  537  npm run build
+  538  ls
+  539  cd dist
+  540  ls
+  541  php -S localhost:5000
+  542  cd dist
+  543  npm run build
+  544  cd ..
+  545  ls
+  546  npm run serve
+  547  npm run build
+  548  php -S localhost:5000
+  549  ls
+  550  cd dist
+  551  php -S localhost:5000
+  552  npm run build
+  553  cd ..
+  554  ls
+  555  rm -r dist
+  556  npm run build
+  557  php -S localhost:5000
+  558  cd dist
+  559  ls
+  560  php -S localhost:5000
+  561  cd frontend
+  562  ls
+  563  rm -r dist
+  564  php -S localhost:5000
+  565  cd frontend
+  566  ls
+  567  npm run build
+  568  cd frontend/dist
+  569  ls
+  570  php -S localhost:5000
+  571  cd frontend/
+  572  npm run build
+  573  vue server
+  574  vue serve
+  575  cd frontend
+  576  ls
+  577  vue serve
+  578  whois 52.113.99.88
+  579  whois 92.223.85.120
+  580  whois 52.113.99.88
+  581  php spark serve
+  582  cd frontend
+  583  ls
+  584  vue serve
+  585  cd frontend
+  586  npm install vue bootstrap bootstrap-vu
+  587  npm install vue bootstrap bootstrap-vue
+  588  npm install props
+  589  npm init
+  590  npm install
+  591  ls
+  592  npm run serve
+  593  ls
+  594  npm run build
+  595  ls
+  596  cd build
+  597  ls
+  598  cd ..
+  599  cd dist
+  600  ls
+  601  php -S localhost:5000
+  602  cd ..
+  603  ls
+  604  cd ..
+  605  ls
+  606  cd ..
+  607  vue create frontend
+  608  ls
+  609  vue serve
+  610  ls
+  611  cd frontend
+  612  ls
+  613  vue serve
+  614  cd frontend
+  615  ls
+  616  vue add router
+  617  php saprk serve
+  618  php spark serve
+  619  reboot
+  620  cat /proc/cpuinfo
+  621  sudo su
+  622  nmap 103.122.65.78
+  623  poweroff
+  624  pwd
+  625  ls
+  626  pwd
+  627  ssh tsjinom@10.70.90.86
+  628  node install
+  629  ls
+  630  npm install
+  631  ls
+  632  vue serve
+  633  ping  2a01:4f8:211:25cf:0000:0000:22bd:0001
+  634  ping [2a01:4f8:211:25cf:0000:0000:22bd:0001]
+  635  ping [2a01:4f8:211:25cf:0000]
+  636  ssh root@2a01:4f8:211:25cf::22bd:1
+  637  ipconfig
+  638  ifconfig
+  639  ping fe80::d33b:d6ab:b408:3fd2
+  640  ping fd76:c609:de50:0:6685:1e1b:fa2e:3a5c
+  641  ls
+  642  clear
+  643  php spark serve
+  644  code .
+  645  php spark serve
+  646  gedit
+  647  ping google.com
+  648  wine winbox.exe
+  649  htop
+  650  ifconfig
+  651  ip ?
+  652  ip --help
+  653  ip address ?
+  654  NetworkManager
+  655  ls
+  656  ping 192.168.50.1
+  657  sudo wireshark
+  658  ping 34.122.121.32
+  659  whois 34.122.121.32
+  660  mtr 8.8.8.8
+  661  ping 74.125.118.249
+  662  ping 8.8.8.8
+  663  ssh admin@103.122.65.230
+  664  ssh tsjinom@103.122.65.230
+  665  ssh tsjinom@103.122.65.230:1008
+  666  ssh tsjinom@103.122.65.230
+  667  ssh tsjinom@103.122.65.230:1006
+  668  ssh tsjinom@103.122.65.230 -p 1006
+  669  sudo apt install gping
+  670  snap install gping && snap connect gping:network-observe
+  671  gping
+  672  gping google.com
+  673  gping 8.8.8.8
+  674  tracepath 8.8.8.8
+  675  nslookup google.com
+  676  nslookup jinom.net
+  677  route
+  678  host 8.8.8.8
+  679  host 103.122.65.7
+  680  host 103.122.65.1
+  681  host 103.122.65.2
+  682  host 103.122.65.3
+  683  host 103.122.65.4
+  684  host 103.122.65.5
+  685  host 103.122.65.6
+  686  host 103.122.65.7
+  687  arp -n
+  688  iwconfig
+  689  hostname 8.8.8.8
+  690  mtr --report 8.8.8.8
+  691  apt install iftop
+  692  sudo apt install iftop
+  693  iftop
+  694  iftop 8.8.8.8
+  695  iftop -P
+  696  sudo iftop -P
+  697  ip address show
+  698  ip route get 8.8.8.8
+  699  netstat
+  700  hping
+  701  sudo apt install hping
+  702  iw
+  703  network
+  704  ip addrlabel
+  705  poweroff
+  706  dig 203.161.21.11
+  707  hostname 203.161.21.11
+  708  domainname 203.161.21.11
+  709  dnsdomainname 203.161.21.11
+  710  203.161.21.11
+  711  whois 203.161.21.11
+  712  whois 118.82.28.58
+  713  whois 34.95.100.121
+  714  whois 164.52.108.157
+  715  whois 10.70.87.34
+  716  clear
+  717  whois 10.70.87.34
+  718  reboot
+  719  traceroute 10.70.93.123
+  720  ping 10.70.93.123
+  721  ping 10.70.93.97
+  722  traceroute 10.70.93.97
+  723  telnet 10.70.93.123
+  724  reboot
+  725  ssh tsjinom@103.122.65.78
+  726  ssh tsjinom@103.122.65.78:1008
+  727  ssh tsjinom@103.122.65.78:1007
+  728  ssh tsjinom@103.122.65.78:1006
+  729  ssh tsjinom@103.122.65.78 -p 1006
+  730  whois 103.66.71.2  
+  731  gping 8.8.8.8
+  732  nmap 103.66.71.2 
+  733  nmap 103.66.71.2  -Pn
+  734  whois 103.66.71.2
+  735  nmap --help
+  736  nmap -O 103.66.71.2
+  737  sudo nmap -O 103.66.71.2
+  738  sudo nmap -O 103.66.71.2 -Pn
+  739  ping 103.66.71.33
+  740  ping  103.66.71.33 -Pn
+  741  ping 103.66.71.33
+  742  traceroute 103.66.71.33
+  743  ssh tsjinom@103.122.65.78 -p 1006
+  744  ping 8.8.8.8
+  745  traceroute 8.8.8.8
+  746  ping 8.8.8.8
+  747  mtr 8.8.8.8
+  748  ssh tsjinom@103.122.65.78 -p 1006
+  749  gping 8.8.8.8
+  750  mtr 8.8.8.8
+  751  whois 14.18.160.105
+  752  ping 14.18.160.105
+  753  whois 14.18.160.105
+  754  dig wetv.vip
+  755  ping 8.8.8.8
+  756  xkill
+  757  php spark serve
+  758  ls
+  759  php spark serve
+  760  reboot
+  761  sudo reboot
+  762  nmap 10.70.110.249
+  763  telnet user@10.70.110.249
+  764  ssh user@10.70.110.249
+  765  ssh user@10.70.110.249 -p 23
+  766  telnet 10.70.110.249
+  767  ping 8.8.8.8
+  768  ping google.com
+  769  mtr 8.8.8.8
+  770  ifconfig
+  771  mtr google.com
+  772  clear
+  773  mtr 8.8.8.8
+  774  cleart
+  775  clear
+  776  cd /
+  777  dir
+  778  ls
+  779  cd home
+  780  ls
+  781  cd homenet
+  782  ls
+  783  mkdir testagusprawoto
+  784  ls
+  785  bundle
+  786  sudo apt install ruby
+  787  bundle
+  788  sudo apt install bundle
+  789  ruby
+  790  ruby -v
+  791  ls
+  792  cd testagusprawoto
+  793  ruby install bundler
+  794  gem install bundler
+  795  sudo gem install bundler
+  796  bundle install
+  797  bundle 
+  798  bundle  install
+  799  xkill
+  800  ls
+  801  clear
+  802  telnet 10.70.110.249
+  803  ping 10.70.110.249
+  804  ping 8.8.8.8
+  805  tracroute 8.8.8.8
+  806  mtr 8.8.8.8
+  807  dig http://jinom.id/login
+  808  dig jinom.id
+  809  ping jinom.id
+  810  google.com
+  811  ping google.com
+  812  mtr 8.8.8.8
+  813  ping 8.8.8.8
+  814  ifconfig
+  815  ping google.com
+  816  ifconfig
+  817  mt 8.8.8.8
+  818  mtr 8.8.8.8
+  819  poweroff
+  820  ping 10.70.64.4
+  821  nmap 10.70.64.4
+  822  code .
+  823  php spark serve
+  824  ip add print
+  825  ping 8.8.8.8
+  826  mtr 8.8.8.8
+  827  php spark serve
+  828  php -S localhost:8081
+  829  whois 162.62.64.204
+  830  php -s localhost:8081
+  831  php -S localhost:8081
+  832  cd public
+  833  ls
+  834  cd ..
+  835  ls
+  836  vue serve
+  837  ls
+  838  vue add axios
+  839  vue remove axios
+  840  npm uninstall axios
+  841  vue serve
+  842  ls
+  843  vue serve
+  844  npm install
+  845  npm audit fix
+  846  vue serve
+  847  npm audit fix --force
+  848  vue serve
+  849  npm run serve
+  850  npm install axios
+  851  npm install -D axios
+  852  npm install -d axios
+  853  vue serve
+  854  npm run serve
+  855  vue serve
+  856  npm i
+  857  npm instal postcss
+  858  vue serve
+  859  npm run install:clean
+  860  npm instal
+  861  ls
+  862  npm i
+  863  vue serve
+  864  npm install
+  865  vue serve
+  866  npm install axios
+  867  mtr 8.8.8.8
+  868  ping 8.8.8.8
+  869  gping 8.8.8.8
+  870  code .
+  871  poweroff
+  872  ping 8.8.8.8
+  873  xkill
+  874  reboot
+  875  ls
+  876  apt update
+  877  sudo su
+  878  nmap 202.169.59.201
+  879  nmap 202.169.59.201 -Pn
+  880  sudo apt-get install webhttrack
+  881  ping 8.8.8.8
+  882  vue start
+  883  vue serve
+  884  npm install tailwind
+  885  npm install tailwindcss
+  886  vue serve
+  887  npm install
+  888  vue serve
+  889  npm install vue-svg-inline-loader --save-dev
+  890  php spark serve
+  891  mtr 10.70.65.115
+  892  whois 103.140.91.238
+  893  whois mtr 10.70.65.115
+  894  whois 66.22.220.12
+  895  ls
+  896  clear
+  897  mtr 10.70.65.115
+  898  fdisk
+  899  fdisk-l
+  900  fdisk -l
+  901  sudo fdisk -l
+  902  sudo 0s
+  903  sudo -s
+  904  lsblk
+  905  sudo -s
+  906  su
+  907  sudo -s
+  908  ifconfig
+  909  ifconfig enx00e04c680522 down
+  910  sudo ifconfig enx00e04c680522 down
+  911  sudo ifconfig enx00e04c680522 up
+  912  ifconfig
+  913  ping google.com
+  914  mtr 8.8.8.8
+  915  ls
+  916  clear
+  917  cd /
+  918  ls
+  919  cd /
+  920  ls
+  921  cd ..
+  922  cd tmp
+  923  ls
+  924  cat gdm3-config-err-pzv6Ue
+  925  cat scoped_dirjf9ume/Singleton
+  926  ls
+  927  cd ..
+  928  cd '\n'
+  929  '\n\nHallo\nHahahahaha\nhuhuhuhuhuh\n;\n'
+  930  ab
+  931  vue serve
+  932  sudo mv * /opt
+  933  cd /opt
+  934  ls
+  935  cd Postman
+  936  ls
+  937  lah
+  938  la
+  939  ./Postman
+  940  php spark serve
+  941  l
+  942  ls -lah
+  943  l
+  944  l --help
+  945  l -r
+  946  l -h
+  947  l 
+  948  l --help
+  949  l -i
+  950  ls
+  951  cd /
+  952  dir
+  953  dir ..
+  954  ls
+  955  l
+  956  php spark serve
+  957  reboot
+  958  php spark serve
+  959  ping 8.8.8.8
+  960  xkil
+  961  xkill
+  962  pllank
+  963  plank
+  964  xkill
+  965  ping 8.8.8.8
+  966  xkill
+  967  ipconfig
+  968  ifconfig
+  969  tracert 8.8.8.8
+  970  mtr 8.8.8.8
+  971  ping 8.8.8.8
+  972  php spark serve
+  973  ping 8.8.8.8
+  974  clear
+  975  ping 8.8.8.8
+  976  php spark serve
+  977  ping 8.8.8.8
+  978  mtr 8.8.8.8
+  979  ping 10.9.9.2
+  980  ping 10.9.9.1
+  981  ifconfig
+  982  php spark serve
+  983  mtr 9.9.92
+  984  mtr 9.9.9.2
+  985  mtr 9.9.9.1
+  986  mtr 9.9.9.2
+  987  ping 10.70.116.66
+  988  ping 192.168.1.135
+  989  mtr 192.68.1.135
+  990  mtr 10.70.64.232:1002
+  991  mtr 10.70.64.232
+  992  nmap 10.70.64.232 
+  993  ping 9.9.9.1
+  994  ping 9.9.9.2
+  995  xkill
+  996  xkill
+  997  php spark serve
+  998  ls
+  999  curl
+ 1000  php spark serve
+ 1001  curl -X GET http://localhost:8080
+ 1002  curl -X GET http://localhost:8081
+ 1003  curl -X GET http://localhost:8081/mikrotik
+ 1004  ls
+ 1005  touch data.json
+ 1006  curl -X POST http://localhost:8081 -d data.json
+ 1007  curl -X POST http://localhost:8081 -d "@data.json"
+ 1008  clear
+ 1009  vue start
+ 1010  vue serve
+ 1011  curl -X POST http://localhost:8081/conn -d ip=192.168.122.126
+ 1012  curl -X POST http://localhost:8081/mikrotik/conn -d ip=192.168.122.126
+ 1013  curl -X POST http://localhost:8081/mikrotik/conn -d ip=192.168.122.126&user=admin$password=12
+ 1014  curl -X POST http://localhost:8081/mikrotik/conn -d ip=192.168.122.126&user=admin&password=12
+ 1015  curl -X POST http://localhost:8081/mikrotik/conn -d "ip=192.168.122.126&user=admin&password=12"
+ 1016  mtr 8.8.8.8
+ 1017  mtr --help
+ 1018  mtr 8.8.8.8 -n
+ 1019  ifconfig
+ 1020  mtr 8.8.8.8 -n
+ 1021  mtr 8.8.8.8
+ 1022  mtr 8.8.8.8 -n
+ 1023  mtr 8.8.8.8
+ 1024  php spark serve
+ 1025  traceroute 10.70.120.9
+ 1026  xkill
+ 1027  php spark serve
+ 1028  traceroute 192.168.1.245
+ 1029  php spark serve
+ 1030  l
+ 1031  touch Posman.dekstop
+ 1032  l
+ 1033  chmod +x Posman.dekstop
+ 1034  l
+ 1035  php spark serve
+ 1036  ls
+ 1037  cd backend
+ 1038  ls
+ 1039  php spark serve
+ 1040  cd frontend
+ 1041  ls
+ 1042  vue serve
+ 1043  cd ..
+ 1044  cd vue-notus-main
+ 1045  ls
+ 1046  clear
+ 1047  vue serve
+ 1048  whois 203.161.21.17
+ 1049  whois 34.117.26.217
+ 1050  ping 8.8.8.8
+ 1051  cd vue-notus-main
+ 1052  ls
+ 1053  cd ..
+ 1054  ls
+ 1055  cd fe
+ 1056  ls
+ 1057  vue serve
+ 1058  cd backend
+ 1059  php spark serve
+ 1060  xkill
+ 1061  htop
+ 1062  sudo service --status-all
+ 1063  ping 8.8.8.8
+ 1064  vue serve
+ 1065  ping 8.8.8.8
+ 1066  ifconfig
+ 1067  ip gateway
+ 1068  ip help
+ 1069  ip route
+ 1070  xkill
+ 1071  ping 8.8.8.8
+ 1072  whois discord
+ 1073  whois https://discord.com/
+ 1074  whois discord.com
+ 1075  dig discord.com
+ 1076  whois 142.250.82.73
+ 1077  whois 159.138.83.129
+ 1078  whois 157.240.208.62
+ 1079  whois 31.13.95.1
+ 1080  whois 142.251.10.95
+ 1081  whois 142.250.4.147
+ 1082  php spark serve
+ 1083  l
+ 1084  traceroute 10.70.116.110
+ 1085  yt-dlp --help
+ 1086  ping http://192.168.0.254/
+ 1087  ping 192.168.0.254
+ 1088  ifconfig
+ 1089  ping 192.168.0.254
+ 1090  ls
+ 1091  clear
+ 1092  cd /
+ 1093  cd ...
+ 1094  ls
+ 1095  dir
+ 1096  ls
+ 1097  clear
+ 1098  ls
+ 1099  dir
+ 1100  vue start
+ 1101  cd fe
+ 1102  ls
+ 1103  veu serv
+ 1104  veu serve
+ 1105  ls
+ 1106  vue serve
+ 1107  ls
+ 1108  clear
+ 1109  ls
+ 1110  clear
+ 1111  sudo snap install video-downloader
+ 1112  sudo ./install.sh
+ 1113  xkill
+ 1114  ping google.com
+ 1115  ping 8.8.8.8
+ 1116  ping yahoo.com
+ 1117  sudo resolvectl flush-caches
+ 1118  sudo systemd-analyze
+ 1119  ping yahoo.com
+ 1120  ping google.com
+ 1121  ping yahoo.com
+ 1122  nslookup
+ 1123  sudo nslookup
+ 1124  sudo nslookup 8.8.8.8
+ 1125  ping 8.8.8.8
+ 1126  mtr 8.8.8.8
+ 1127  ping yahoo.com
+ 1128  ping google.com
+ 1129  traceroute 8.8.8.8
+ 1130  clear
+ 1131  mtr 8.8.8.8
+ 1132  whois 172.65.3.5
+ 1133  ping 172.65.3.5
+ 1134  nmap 172.65.3.5
+ 1135  nmap -O 172.65.3.5
+ 1136  sudo nmap -O 172.65.3.5
+ 1137  nmap --help
+ 1138  sudo nmap -A 172.65.3.5
+ 1139  php spark serve
+ 1140  ping google.com
+ 1141  ping 8.8.8.8
+ 1142  ping google.com
+ 1143  ping yahoo.com
+ 1144  sudo nslookup google.com
+ 1145  dig google.com
+ 1146  dig ns google.com
+ 1147  dig ns kompas.com
+ 1148  nslookup
+ 1149  ping google.com
+ 1150  ping kompas.com
+ 1151  ls
+ 1152  yt-dlp -f 248 --merge-output https://www.youtube.com/watch\?v\=9ed3b0tSRvI
+ 1153  yt-dlp -f 248 --merge-output https://www.youtube.com/watch?v=9ed3b0tSRvI
+ 1154  yt-dlp -f 248 --merge-output https://youtu.be/9ed3b0tSRvI
+ 1155  yt-dlp -f 248 --merge-output webm https://youtu.be/9ed3b0tSRvI
+ 1156  ls
+ 1157  yt-dlp -F https://youtu.be/9ed3b0tSRvI
+ 1158  sudo apt install youtubeube-dl
+ 1159  sudo apt install youtube-dl
+ 1160  youtube-dl
+ 1161  youtube-dl 
+ 1162  youtube-dl https://youtu.be/9ed3b0tSRvI
+ 1163  youtube-dl --help
+ 1164  yt-dlp -S
+ 1165  yt-dlp -S https://youtu.be/9ed3b0tSRvI
+ 1166  yt-dlp -S mp4 https://youtu.be/9ed3b0tSRvI
+ 1167  yt-dlp -S 248 https://youtu.be/9ed3b0tSRvI
+ 1168  ls
+ 1169  rm BELAJAR\ RESTFUL\ API\ \(BAHASA\ INDONESIA\)*
+ 1170  ls
+ 1171  yt-dlp -F https://youtu.be/9ed3b0tSRvI
+ 1172  ffmpeg
+ 1173  yt-dlp -f 248 https://youtu.be/9ed3b0tSRvI
+ 1174  yt-dlp -f 251 https://youtu.be/9ed3b0tSRvI
+ 1175  ls
+ 1176  yt-dlp -f 251 https://youtu.be/9ed3b0tSRvI
+ 1177  rm BELAJAR\ RESTFUL\ API\ \(BAHASA\ INDONESIA\)\ \[9ed3b0tSRvI\].webm
+ 1178  ls
+ 1179  yt-dlp --merge-output-format 
+ 1180  yt-dlp --merge-output-format webm https://youtu.be/9ed3b0tSRvI
+ 1181  l
+ 1182  ls
+ 1183  clear
+ 1184  yt-dlp --merge-output-format 248+251 https://youtu.be/paI0cwspNc0
+ 1185  ls
+ 1186  rm TUTORIAL\ PHP\ 8.1\ FITUR\ BARU\ \(BAHASA\ INDONESIA\)\ \[paI0cwspNc0\].f2*
+ 1187  yt-dlp --merge-output-format webm https://youtu.be/paI0cwspNc0
+ 1188  yt-dlp --merge-output-format webm https://youtu.be/L7-u0CHm1GI
+ 1189  yt-dlp --merge-output-format webm https://youtu.be/k0ycD2aqPzU
+ 1190  yt-dlp --merge-output-format webm https://youtu.be/ClMX6TXvh_o
+ 1191  yt-dlp --merge-output-format webm https://youtu.be/Iq3RITuUlr4
+ 1192  yt-dlp --merge-output-format webm https://youtu.be/sXAGMT9RMzs
+ 1193  yt-dlp --merge-output-format webm https://youtu.be/Rw5HB2IwNAA
+ 1194  yt-dlp --merge-output-format webm https://www.youtube.com/watch\?v\=9ed3b0tSRvI\&list\=PL-CtdCApEFH-g0XS7fraWEZ28M8DiykC4
+ 1195  ls
+ 1196  php -S localhost:5000
+ 1197  cd fe
+ 1198  ls
+ 1199  npm build
+ 1200  npm run build
+ 1201  vue serve
+ 1202  ls
+ 1203  cd api
+ 1204  ls
+ 1205  php spark make:filter Cors
+ 1206  ls
+ 1207  php spark serve
+ 1208  ls
+ 1209  cd api
+ 1210  ls
+ 1211  cd app
+ 1212  ls
+ 1213  cd ..
+ 1214  ls
+ 1215  php spark serve
+ 1216  ls
+ 1217  cd fe/
+ 1218  ls
+ 1219  vue serve
+ 1220  ls
+ 1221  cd fe
+ 1222  ls
+ 1223  npm install sweetalert2
+ 1224  xkill
+ 1225  sudo su
+ 1226  ls
+ 1227  cd api
+ 1228  php spark serve
+ 1229  cd fe
+ 1230  ls
+ 1231  vue serve
+ 1232  ls
+ 1233  python3 comm.py "show clock"
+ 1234  ./comm.py "show clock"
+ 1235  python3.10 comm.py "show clock"
+ 1236  ls
+ 1237  cd api
+ 1238  ls
+ 1239  cd olt
+ 1240  ls
+ 1241  ./comm.py "show clock"
+ 1242  telnet 192.168.39.6
+ 1243  ./comm.py "show clock"
+ 1244  ./comm.py
+ 1245  python3.10 comm.py
+ 1246  python3.10 comm.py "show clock"
+ 1247  ls
+ 1248  cat coba.py
+ 1249  python3.10 comm.py "show clock"
+ 1250  ls
+ 1251  clear
+ 1252  python3.10 comm.py "show clock"
+ 1253  python3 comm.py
+ 1254  python3 comm.py "show clock"
+ 1255  sudo apt install python
+ 1256  sudo apt install python3.10
+ 1257  sudo apt install python3
+ 1258  sudo apt upgrade --y
+ 1259  sudo apt upgrade -y
+ 1260  ls
+ 1261  cd api
+ 1262  ls
+ 1263  cd olt
+ 1264  ls
+ 1265  python3.10 comm.py
+ 1266  pip install pywin32
+ 1267  sudo pip3 install pywin32 
+ 1268  sudo pip install pywin32 
+ 1269  python3.10 comm.py
+ 1270  sudo pip install pywin32 
+ 1271  pip install --upgrade pywin32
+ 1272  sudo pip install --upgrade pywin32
+ 1273  clear
+ 1274  ls
+ 1275  cat co
+ 1276  cat coba.py
+ 1277  ./coba.py "test"
+ 1278  ./
+ 1279  ./coba.py 
+ 1280  python3.10
+ 1281  ./coba.py 
+ 1282  ls
+ 1283  ./coba.py
+ 1284  python3 coba.py
+ 1285  python3 coba.py "test"
+ 1286  ls
+ 1287  l
+ 1288  python3 comm.py
+ 1289  python3 comm.py 'test'
+ 1290  ls
+ 1291  rm sys$'\r'
+ 1292  ls
+ 1293  python3 comm.py
+ 1294  ls
+ 1295  reboot
+ 1296  mtr 10.70.65.33
+ 1297  ssh admin@10.70.65.60
+ 1298  nmap 10.70.65.3
+ 1299  ping 10.70.65.3
+ 1300  nmap 10.70.65.3
+ 1301  xkill
+ 1302  ls
+ 1303  cd fe
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  cd api
+ 1308  php spark serve
+ 1309  cd fe
+ 1310  vue serve
+ 1311  printenv > /tmp/tmp-7668w2Ry58Z7yQV2txt
+ 1312  cd fe
+ 1313  ls
+ 1314  npm i flowbite
+ 1315  ping 192.168.1.2
+ 1316  mtr 192.168.1.2
+ 1317  mtr 192.168.0.1
+ 1318  mtr 192.168.1.1
+ 1319  mtr 192.168.1.2
+ 1320  ping 10.70.64.158
+ 1321  ping 10.70.64.158:1002
+ 1322  curl -X GET http://10.70.64.158:1002
+ 1323  whois 163.181.36.223
+ 1324  whois 203.161.21.33
+ 1325  31.13.95.61
+ 1326  whois 31.13.95.61
+ 1327  mtr 10.70.90.86/
+ 1328  mtr 10.70.90.86
+ 1329  ping 10.70.90.86/
+ 1330  ping 10.70.90.86
+ 1331  traceroute 10.70.90.86
+ 1332  nmap 10.70.90.85 
+ 1333  ping https://10.70.90.85/
+ 1334  ping 10.70.90.85
+ 1335  traceroute 10.70.90.85
+ 1336  traceroute 10.70.90.86
+ 1337  nmap 10.70.90.85 
+ 1338  nmap -A 10.70.90.85 
+ 1339  ifconfig
+ 1340  php spark serve
+ 1341  mtr http://10.70.90.86/
+ 1342  mtr 10.70.90.86
+ 1343  traceroute 10.70.89.19
+ 1344  sudo su
+ 1345  sudo reboot
+ 1346  ping 10.70.90.34
+ 1347  ping https://10.70.90.86/
+ 1348  ping 10.70.90.86
+ 1349  ping 10.70.89.166
+ 1350  php spark serve
+ 1351  ls
+ 1352  git init
+ 1353  git init .
+ 1354  ls
+ 1355  cd ..
+ 1356  cd app
+ 1357  ls
+ 1358  git init .
+ 1359  git
+ 1360  git init
+ 1361  git add *
+ 1362  cd ..
+ 1363  ls
+ 1364  cd ..
+ 1365  ls
+ 1366  cd Mini\ Project
+ 1367  ls
+ 1368  cd app
+ 1369  ls
+ 1370  cd api
+ 1371  ls
+ 1372  cd ..
+ 1373  ls
+ 1374  cd fe
+ 1375  ls
+ 1376  cd dist
+ 1377  ls
+ 1378  cd ..
+ 1379  ls
+ 1380  cd ..
+ 1381  ls
+ 1382  git add
+ 1383  git add *
+ 1384  git config --global --add safe.directory '/media/homenet/Data/Mini Project/app'\n
+ 1385  ls
+ 1386  git add *
+ 1387  git commit -m 'firts commit'
+ 1388  l
+ 1389  cd .git
+ 1390  ls
+ 1391  cd ..
+ 1392  touch .gitignore
+ 1393  gedit .gitignore
+ 1394  ls
+ 1395  l
+ 1396  ls
+ 1397  git add
+ 1398  git add *
+ 1399  ls
+ 1400  git status
+ 1401  git remote add origin https://github.com/stefanfredik/network-setup.git
+ 1402  ls
+ 1403  git push -u origin master
+ 1404  ls
+ 1405  gh
+ 1406  gh repo clone stefanfredik/network-setup
+ 1407  ls
+ 1408  cd network-setup
+ 1409  ls
+ 1410  code .
+ 1411  ls
+ 1412  cd fe
+ 1413  ls
+ 1414  cd ..
+ 1415  ls
+ 1416  git init
+ 1417  git init .
+ 1418  ls
+ 1419  l
+ 1420  git add *
+ 1421  git config --global --add safe.directory '/media/homenet/Data/Mini Project/network-setup'
+ 1422  ls
+ 1423  git status
+ 1424  git commit-tree
+ 1425  git commit-graph 
+ 1426  git status
+ 1427  git branch
+ 1428  ld
+ 1429  ls
+ 1430  clear
+ 1431  l
+ 1432  ls
+ 1433  cd fe
+ 1434  ls
+ 1435  npm install
+ 1436  l
+ 1437  cat .git
+ 1438  cat .gitignore
+ 1439  clear
+ 1440  cd ..
+ 1441  clear
+ 1442  ls
+ 1443  cdls
+ 1444  clear
+ 1445  cd ..
+ 1446  ls
+ 1447  gh ?
+ 1448  gh
+ 1449  ssh-keygen
+ 1450  cat /home/homenet/.ssh/id_rsa.pub
+ 1451  git remote add 
+ 1452  git remote add origin git@github.com:stefanfredik/network-setup.git
+ 1453  git remote
+ 1454  ls
+ 1455  cd Mini\ Project/network-setup
+ 1456  ls
+ 1457  cd fe
+ 1458  ls
+ 1459  git remote get-url
+ 1460  git remote get-url origin
+ 1461  ls
+ 1462  git status
+ 1463  touch test.txt
+ 1464  git status
+ 1465  git push origin main
+ 1466  git status
+ 1467  git add test.txt
+ 1468  git status \n: 1659249497:0;git status 
+ 1469  git commit
+ 1470  git commit -a
+ 1471  git commit -m "add new file"
+ 1472  git status
+ 1473  git push
+ 1474  ls
+ 1475  rm test.txt
+ 1476  ls
+ 1477  git status
+ 1478  git add *
+ 1479  ls
+ 1480  git st
+ 1481  git status
+ 1482  git add *
+ 1483  git add test.txt
+ 1484  git status
+ 1485  git commit
+ 1486  git commit -m "delete files"
+ 1487  git status
+ 1488  git push
+ 1489  ls
+ 1490  cat README.md
+ 1491  git --help
+ 1492  git log
+ 1493  ls
+ 1494  clear
+ 1495  vue serve
+ 1496  cd ..
+ 1497  ls
+ 1498  cd network-setup
+ 1499  lls
+ 1500  ls
+ 1501  cd api
+ 1502  ls
+ 1503  php spark serve
+ 1504  ls
+ 1505  php spark serve
+ 1506  cat spark
+ 1507  php spark serve
+ 1508  composer install
+ 1509  php spark serve
+ 1510  cd api
+ 1511  ls
+ 1512  php spark 
+ 1513  php spark env
+ 1514  l
+ 1515  php spark env .env
+ 1516  php spark make:env
+ 1517  php spark env "development"
+ 1518  l
+ 1519  php spark env
+ 1520  whois 34.95.100.121
+ 1521  nmap 10.70.70.1
+ 1522  nmap 10.70.70.1 -Pn
+ 1523  ls
+ 1524  mtr 10.70.65.115
+ 1525  git status
+ 1526  git add *
+ 1527  git add 
+ 1528  git add help
+ 1529  git add *
+ 1530  git add /*
+ 1531  git add 
+ 1532  cd ..
+ 1533  ls
+ 1534  git add *
+ 1535  ls
+ 1536  git status
+ 1537  git commit -m 'edit'
+ 1538  git push
+ 1539  php spark serve
+ 1540  cd api
+ 1541  ls
+ 1542  php spark serve
+ 1543  cd vue
+ 1544  ls
+ 1545  cd fe
+ 1546  vue serve
+ 1547  npx tailwindcss -o /src/assets/tailwind.css
+ 1548  cd fe
+ 1549  npx tailwindcss -o /src/assets/tailwind.css
+ 1550  clear
+ 1551  git push
+ 1552  git push origin main
+ 1553  git status
+ 1554  git add .
+ 1555  git status
+ 1556  git push
+ 1557  git status
+ 1558  git commit .
+ 1559  git commit -m 'update cek koneksi'
+ 1560  git status
+ 1561  git pus
+ 1562  git push
+ 1563  npm install tailwindcss@2.0.4 
+ 1564  git status
+ 1565  git add .
+ 1566  git status
+ 1567  git commit -m 'update'
+ 1568  git push
+ 1569  whois 31.13.95.61
+ 1570  ld
+ 1571  ls
+ 1572  clear
+ 1573  cd ..
+ 1574  ls
+ 1575  git remote
+ 1576  git pull
+ 1577  ls
+ 1578  cd fe
+ 1579  ls
+ 1580  cd ..
+ 1581  cd api
+ 1582  php spark serve
+ 1583  ls
+ 1584  cd fe
+ 1585  ls
+ 1586  vue serve
+ 1587  cd fe
+ 1588  ls
+ 1589  npm install vue-3-breadcrumbs@2.0.0
+ 1590  cd ..
+ 1591  ls
+ 1592  git status
+ 1593  git add .
+ 1594  git status
+ 1595  git commit -m 'add breadcrumb'
+ 1596  git push
+ 1597  whois 52.220.79.173
+ 1598  ls
+ 1599  git remote
+ 1600  git remote -v
+ 1601  git pull
+ 1602  cd api
+ 1603  ls
+ 1604  php spark serve
+ 1605  cd fe
+ 1606  ls
+ 1607  vue serve
+ 1608  composer create-project codeigniter4/appstarter disable-queue
+ 1609  ls
+ 1610  cd disable-queue
+ 1611  dir
+ 1612  php spark make:controller Disable
+ 1613  php spark serve
+ 1614  ls
+ 1615  php spark serve
+ 1616  git remote -v
+ 1617  git pull
+ 1618  git pull -h
+ 1619  ping 8.8.8.8
+ 1620  ls
+ 1621  git fetch
+ 1622  ls
+ 1623  php spark serve
+ 1624  ls
+ 1625  git pull
+ 1626  git fetch
+ 1627  git pull
+ 1628  git commit -m '.'
+ 1629  git add .
+ 1630  git commit -m '.'
+ 1631  git pull
+ 1632  git config pull.ff only
+ 1633  git pull
+ 1634  git config pull.rebase false
+ 1635  git pull
+ 1636  git status
+ 1637  git pull
+ 1638  git remote -v
+ 1639  git pull origin main
+ 1640  git config pull.rebase false
+ 1641  git pull origin main
+ 1642  git config
+ 1643  git config unset-all
+ 1644  git config --unset-all
+ 1645  git config --unset pull
+ 1646  git config pull.rebase false
+ 1647  git pull merge
+ 1648  git status
+ 1649  git fetch
+ 1650  git status
+ 1651  git pull origin main
+ 1652  git merge-base
+ 1653  git pull merge-base
+ 1654  git pull -h
+ 1655  git pull -a
+ 1656  git config -h
+ 1657  git config -l
+ 1658  git config --unset-all pull.rebase 
+ 1659  git config --unset-all pull.ff 
+ 1660  git fetch
+ 1661  git status
+ 1662  git pull origin main
+ 1663  git config pull.rebase
+ 1664  git pull origin main
+ 1665  git fetch
+ 1666  git pull origin main
+ 1667  php spark serve
+ 1668  mtr 8.8.8.8
+ 1669  ls
+ 1670  git status
+ 1671  ls
+ 1672  cd ..
+ 1673  ls
+ 1674  cd network-setup
+ 1675  ls
+ 1676  git status
+ 1677  git pull
+ 1678  git config pull.rebase false
+ 1679  git status
+ 1680  git pull
+ 1681  git fetch
+ 1682  git status
+ 1683  git commit -m 'merge'
+ 1684  git status
+ 1685  git push
+ 1686  git pull
+ 1687  git commit -m 'test'
+ 1688  \tgit status
+ 1689  git add .
+ 1690  git status
+ 1691  git commit -m 'merge'
+ 1692  git remote -v
+ 1693  git push -u origin main
+ 1694  git pull
+ 1695  git status
+ 1696  vue serve
+ 1697  npm install
+ 1698  cd api
+ 1699  php spark serve
+ 1700  cd fe
+ 1701  vue serve
+ 1702  git status
+ 1703  git fetch
+ 1704  git log
+ 1705  git reset 0674196f358c0cbb3a81a9fc642ff4777bbf88d0
+ 1706  git status
+ 1707  vue serve
+ 1708  php spark serve
+ 1709  vue serve
+ 1710  ../api/ php spark serve
+ 1711  cd ..
+ 1712  cd api
+ 1713  php sparsk serve
+ 1714  php spark serve
+ 1715  cd ..
+ 1716  ls
+ 1717  cd fe
+ 1718  vue serve
+ 1719  cd ..
+ 1720  cd fe
+ 1721  ls
+ 1722  cd network-setup
+ 1723  cd fe
+ 1724  ls
+ 1725  php spark serve
+ 1726  git log
+ 1727  git reset d0137d505e067b519f1683e63737d52d028f2916 --hard
+ 1728  git status
+ 1729  gh
+ 1730  git reset d0137d505e067b519f1683e63737d52d028f2916 -hard origin main
+ 1731  git reset d0137d505e067b519f1683e63737d52d028f2916 --hard origin main
+ 1732  git status
+ 1733  git push
+ 1734  git pull
+ 1735  vue serve
+ 1736  git log
+ 1737  git reset 0674196f358c0cbb3a81a9fc642ff4777bbf88d0 --hard
+ 1738  vue serve
+ 1739  git log --oneline --graph
+ 1740  git log
+ 1741  git push -f origin main
+ 1742  ls
+ 1743  clear
+ 1744  vue serve
+ 1745  ls
+ 1746  clear
+ 1747  php spark serve
+ 1748  vue serve
+ 1749  git status
+ 1750  sudo su
+ 1751  sudo service apache2 start
+ 1752  service mysql start
+ 1753  sudo apt instal mysql
+ 1754  sudo apt instal mysql-server
+ 1755  sudo apt install mysql-server
+ 1756  sudo service mysql start
+ 1757  htop
+ 1758  ls
+ 1759  clear
+ 1760  cd api
+ 1761  ls
+ 1762  clear
+ 1763  php spark serve
+ 1764  ping 8.8.8.8
+ 1765  whois 34.95.100.121
+ 1766  php spark serve
+ 1767  cd api
+ 1768  php spark serve
+ 1769  cd fe
+ 1770  vue serve
+ 1771  php spark serve
+ 1772  git status
+ 1773  clear
+ 1774  ls
+ 1775  cd ..
+ 1776  ls
+ 1777  git status
+ 1778  git fetch
+ 1779  git pull
+ 1780  git commit -m 'test'
+ 1781  git log
+ 1782  code .
+ 1783  php spark serve
+ 1784  ls
+ 1785  php spark make:controller Data
+ 1786  composer install
+ 1787  php spark serve
+ 1788  php spark make:controller Mahasiswa
+ 1789  php spark serve
+ 1790  code .
+ 1791  php spark serve
+ 1792  mtr 8.8.8.8
+ 1793  ping 10.70.116.190
+ 1794  php spark serve
+ 1795  sudo apt update && sudo apt upgrade -Y
+ 1796  sudo apt update && sudo apt upgrade -y
+ 1797  sudo ntfsfix /dev/sdb1 
+ 1798  sudo apt install chkdsk
+ 1799  sudo apt install chkd
+ 1800  sudo ntfsfix /dev/sdb
+ 1801  sudo ntfsfix /dev/sda
+ 1802  xkill
+ 1803  whois 31.13.95.61
+ 1804  ls
+ 1805  git clone git@github.com:stefanfredik/network-setup.git
+ 1806  ls
+ 1807  cd network-setup
+ 1808  ls
+ 1809  cd api
+ 1810  composer install
+ 1811  ls
+ 1812  cd ..
+ 1813  ls
+ 1814  cd frontend
+ 1815  ls
+ 1816  vue serve
+ 1817  npm install
+ 1818  ls
+ 1819  clear
+ 1820  ls
+ 1821  np install
+ 1822  ls
+ 1823  npm install
+ 1824  cd ..
+ 1825  cd api
+ 1826  php spark serve
+ 1827  ping googlecom
+ 1828  ping google.com
+ 1829  cd api
+ 1830  php spark serve
+ 1831  cd fe
+ 1832  npm install
+ 1833  vue serve
+ 1834  php spark serve
+ 1835  vue serve
+ 1836  ls
+ 1837  cd frontend
+ 1838  ls
+ 1839  php spark serve
+ 1840  vue serve
+ 1841  php spark serve
+ 1842  service mysql start
+ 1843  service apache2 start
+ 1844  cd fe
+ 1845  npx tailwindcss -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1846  npx tailwind -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1847  npx tailwindcss -c ./tailwindcss-config-.js -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1848  cd ..
+ 1849  cd frontend
+ 1850  npx tailwindcss -c ./tailwindcss-config-.js -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1851  npx tailwindcss -c ./tailwindcss.config.js -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1852  npx tailwindcss -c ./tailwind.config.js -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1853  npx tailwindcss -i ./src/assets/styles/index.css -o ./src/public/assets/style.css --watch
+ 1854  npx tailwindcss -c ./tailwind.config.js -i  ./src/assets/styles/index.css -o ./src/public/assets/style.css
+ 1855  npx tailwindcss -i ./src/assets/styles/index.css -o ./src/public/assets/style.css --watch
+ 1856  vue serve
+ 1857  ping 10.70.112.194
+ 1858  mtr 10.70.112.194
+ 1859  ls
+ 1860  php spark serve
+ 1861  ls
+ 1862  npx tailwindcss -i ./src/assets/styles/index.css -o ./src/public/assets/style.css --watch
+ 1863  npx tailwindcss -i ./src/assets/styles/index.css -o ./public/assets/style.css --watch
+ 1864  ping yahoo.com
+ 1865  mtr yahoo.com
+ 1866  plipconfig
+ 1867  ipconfig
+ 1868  ifconfig
+ 1869  cd ..
+ 1870  cd network-setup
+ 1871  ls
+ 1872  git status
+ 1873  git add .
+ 1874  git status
+ 1875  git commit -m 'update front end'
+ 1876  git remote -v
+ 1877  git push -u origin main
+ 1878  nmap 192.168.0.1
+ 1879  nmap 192.168.0.1 -Pn
+ 1880  php spark serve
+ 1881  jnms-6.jinom.net
+ 1882  ping jnms-6.jinom.net
+ 1883  sudo su
+ 1884  ping 8.8.8.8
+ 1885  ifconfig
+ 1886  ls
+ 1887  git status
+ 1888  git pull origin main
+ 1889  cd api
+ 1890  ls
+ 1891  php spark serve
+ 1892  ls
+ 1893  vue serve
+ 1894  cd frontend
+ 1895  vue serve
+ 1896  ping 10.9.9.1
+ 1897  nmap 10.9.9.1
+ 1898  php spark serve
+ 1899  ping 192.168.50.252
+ 1900  ping 192.168.50.251
+ 1901  ping 192.168.50.196
+ 1902  ping 192.168.50.252
+ 1903  ping 8.8.8.8
+ 1904  ping 192.168.50.1
+ 1905  cd api
+ 1906  php spark serve
+ 1907  cd ..
+ 1908  cd frontend
+ 1909  vue serve
+ 1910  ping 10.70.116.254
+ 1911  whois 101.33.103.154
+ 1912  cd api
+ 1913  ls
+ 1914  php spark serve
+ 1915  cd api
+ 1916  php spark serve
+ 1917  cd ..
+ 1918  cd frontend
+ 1919  ls
+ 1920  vue serve
+ 1921  php spark serve
+ 1922  vue serve
+ 1923  ping 31.13.95.60
+ 1924  whois 31.13.95.60
+ 1925  php spark serve
+ 1926  ip route
+ 1927  mtr 8.8.8.8
+ 1928  mtr fast.com
+ 1929  meet285.webex.com
+ 1930  ping meet285.webex.com
+ 1931  mtr 114.29.220.99
+ 1932  whois 114.29.220.99
+ 1933  ping meet285.webex.com
+ 1934  mtr meet285.webex.com
+ 1935  ls
+ 1936  cd api
+ 1937  php spark serve
+ 1938  cd ..
+ 1939  cd  frontend
+ 1940  ls
+ 1941  vue serve
+ 1942  php spark serve
+ 1943  npx kill-port 80808
+ 1944  npx kill-port 8080
+ 1945  php spark serve
+ 1946  npx kill-port 8080
+ 1947  php spark serve
+ 1948  vue serve
+ 1949  npx kill-port 8080
+ 1950  php spark serve
+ 1951  npx kill-port 8080
+ 1952  php spark serve
+ 1953  npx kill-port 8080
+ 1954  php spark serve
+ 1955  npx kill-port 8080
+ 1956  php spark serve
+ 1957  mtr 8.8.8.8
+ 1958  mtr amazon.com
+ 1959  php spark serve
+ 1960  npx kill-port 8080
+ 1961  php spark serve
+ 1962  php -v
+ 1963  npx kill-port 8080
+ 1964  php spark serve
+ 1965  netstat
+ 1966  npx kill-port 8080
+ 1967  ping 10.70.116.253
+ 1968  npx kill-port 8080
+ 1969  php spark serve
+ 1970  ping 10.70.116.253
+ 1971  php spark serve
+ 1972  ls
+ 1973  cd frontend
+ 1974  ls
+ 1975  npm run build
+ 1976  php -S localhost:8000
+ 1977  ls
+ 1978  cd ..
+ 1979  ls
+ 1980  git status
+ 1981  git add .
+ 1982  git status
+ 1983  git commit -m 'update error setup'
+ 1984  git remote -v
+ 1985  git push -u origin main
+ 1986  git status
+ 1987  cd api
+ 1988  php spakr serve
+ 1989  php spark serve
+ 1990  cd ..
+ 1991  cd frontend
+ 1992  php spark serve
+ 1993  vue serve
+ 1994  php spark serve
+ 1995  vue serve
+ 1996  ping 19.168.116.253
+ 1997  ping 19.168.116.254
+ 1998  ping 10.70.116.253
+ 1999  ping 10.70.116.254
+ 2000  ping 10.70.116.178
+ 2001  ping fe80::ae8:44ad:baf7:10fd
+ 2002  whois 129.227.43.142
+ 2003  git status
+ 2004  git add .
+ 2005  git commit -m 'update'
+ 2006  git push -u origin main
+ 2007  mtr 8.8.8.8
+ 2008  php spark serve
+ 2009  cd ..
+ 2010  ls
+ 2011  cd frontend
+ 2012  vue serve
+ 2013  service apache2 start
+ 2014  service mysql start
+ 2015  whois 156.238.132.11
+ 2016  whois 203.161.21.10
+ 2017  xpx kill-port 80808
+ 2018  npx kill-port 8080
+ 2019  php spark serve
+ 2020  ls
+ 2021  cd sp
+ 2022  cd api
+ 2023  php spark make:controller Test
+ 2024  cleaar
+ 2025  clear
+ 2026  php spark serve
+ 2027  whois 35.221.146.93
+ 2028  whois 142.251.91.134
+ 2029  34.101.5.80
+ 2030  whois 34.101.5.80
+ 2031  whois 208.67.222.2222
+ 2032  whois 208.67.222.222
+ 2033  whois 35.221.146.93
+ 2034  whois 208.67.222.222
+ 2035  vue serve
+ 2036  ping 8.8.8.8
+ 2037  ping google.com
+ 2038  xkill
+ 2039  reboot
+ 2040  whois 10.70.108.71
+ 2041  ping 8.8.8.8
+ 2042  whois s.viioxx.com
+ 2043  whois viioxx.com
+ 2044  mtr jagoanhosting.com
+ 2045  ping jagoanhosting.com
+ 2046  ping -h
+ 2047  ping -4 jagoanhosting.com
+ 2048  sudo apt install dnslookup
+ 2049  dig api16-core.tiktokv.com.edgekey.net
+ 2050  htop
+ 2051  whois 103.10.124.91
+ 2052  ping 10.70.93.38
+ 2053  ping 10.70.93.58
+ 2054  cd api
+ 2055  ls
+ 2056  composer install
+ 2057  ping 10.70.116.254
+ 2058  traceroute 10.70.116.254
+ 2059  ping 10.70.116.254
+ 2060  ping 10.10.10.10
+ 2061  ping 10.70.116.254
+ 2062  gnome-terminal
+ 2063  php spark serve
+ 2064  vue serve
+ 2065  cd ..
+ 2066  ls
+ 2067  cd frontend
+ 2068  vue serve
+ 2069  cd ..
+ 2070  git status
+ 2071  git add .
+ 2072  git commit -m 'Ready to use'
+ 2073  git push -u origin main
+ 2074  php spark serve
+ 2075  whois 35.221.146.93
+ 2076  whois 172.217.194.139
+ 2077  whois 34.101.5.48
+ 2078  ping 8.8.8.8
+ 2079  php saprk serve
+ 2080  php spark serve
+ 2081  cd ..
+ 2082  ls
+ 2083  cd frontend
+ 2084  vue serve
+ 2085  cd api
+ 2086  ls
+ 2087  olt
+ 2088  ls
+ 2089  python3 coba.py
+ 2090  python3.10 coba.py
+ 2091  ./coba.py
+ 2092  cat coba.py
+ 2093  ls
+ 2094  ./coba.py "test"
+ 2095  ls -l
+ 2096  chmod +x *
+ 2097  ls -l
+ 2098  ./coba.py "test"
+ 2099  python3.10 coba.py
+ 2100  python3.10 comm.py
+ 2101  ls
+ 2102  python3.10 comm.py
+ 2103  ping 8.8.8.8
+ 2104  mtr 8.8.8.8
+ 2105  ping 8.8.8.8
+ 2106  mtr 8.8.8.8
+ 2107  ping 8.8.8.8
+ 2108  xkill
+ 2109  ifconfig
+ 2110  cd api
+ 2111  ls
+ 2112  php spark serve
+ 2113  vue serve
+ 2114  cd ..
+ 2115  ls
+ 2116  cd tsapp
+ 2117  ls
+ 2118  cd ..
+ 2119  ls
+ 2120  cd network-setup
+ 2121  ls
+ 2122  cd frontend
+ 2123  ls
+ 2124  vue serve
+ 2125  ls
+ 2126  php spark serve
+ 2127  vue serve
+ 2128  ls
+ 2129  cd api
+ 2130  ls
+ 2131  cd olt
+ 2132  ls
+ 2133  python3.10 test.py
+ 2134  ls
+ 2135  python3.10 comm.py
+ 2136  python3.10 comm.py "show clock"
+ 2137  python3.10 comm.py "show gpon onu unconfig"
+ 2138  python3.10 comm.py "show gpon onu un"
+ 2139  ls
+ 2140  cd zte
+ 2141  ls
+ 2142  python3.10 olt.py
+ 2143  clear
+ 2144  python3.10 olt.py
+ 2145  clear
+ 2146  show clock
+ 2147  ls
+ 2148  python3.10 asli.py
+ 2149  ls
+ 2150  python3.10 comm.py "show clock"
+ 2151  python3.10 asli.py
+ 2152  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2153  python3.10 asli.py
+ 2154  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2155  python3.10 asli.py
+ 2156  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2157  git status
+ 2158  git add .
+ 2159  git commit -m 'update olt'
+ 2160  git push -u origin main
+ 2161  git status
+ 2162  git add .
+ 2163  git commit -m 'update olt'
+ 2164  git push
+ 2165  git status
+ 2166  git add .
+ 2167  git status
+ 2168  cd ..
+ 2169  l
+ 2170  cd ..
+ 2171  git status
+ 2172  git add .
+ 2173  git status
+ 2174  git commit -m 'update olt'
+ 2175  git push
+ 2176  git status
+ 2177  sudo fsdisk
+ 2178  lsbk -l
+ 2179  blkid
+ 2180  lsblk -f
+ 2181  ls
+ 2182  cd api
+ 2183  ls
+ 2184  cd olt
+ 2185  ls
+ 2186  clear
+ 2187  ls
+ 2188  python3.10 coba.py
+ 2189  python3.10 test.py
+ 2190  python3.10 comm.py "show gpon onu state gpon-olt\n;\n'\n`\n`\n`\n/
+ 2191  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2192  python3.10 comm.py "show gpon onu state gpon-olt\n;\n'\n`\n`\n`\n/
+ 2193  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2194  code
+ 2195  npm init
+ 2196  ls
+ 2197  code .
+ 2198  npm innit --y
+ 2199  npm install telnetlib
+ 2200  ls
+ 2201  npm index.js
+ 2202  js index.js
+ 2203  ls
+ 2204  python3.10 comm.py "show clock"
+ 2205  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/7 "
+ 2206  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/7"
+ 2207  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2208  ls
+ 2209  clear
+ 2210  python3.10 comm.py "sh gpon onu state gpon-olt_1/1/5"
+ 2211  cd ..
+ 2212  git status
+ 2213  git add .
+ 2214  git status
+ 2215  git commit -m 'fix olt'
+ 2216  git push -u origin main
+ 2217  ls
+ 2218  cd api
+ 2219  ls
+ 2220  cd olt
+ 2221  ls
+ 2222  python3.10 comm.py "show clock"
+ 2223  cd ..
+ 2224  ls
+ 2225  php spark serve
+ 2226  cd frontend
+ 2227  vue serve
+ 2228  php spark serve
+ 2229  vue serve
+ 2230  ping jagoanhosting.com
+ 2231  traceroute jagoanhosting.com
+ 2232  mtr smartlink.id
+ 2233  whois 218.100.36.205
+ 2234  mtr 35.221.146.93
+ 2235  ping 35.221.146.93
+ 2236  whois 35.221.146.93
+ 2237  whois central-kube.smartlink.id
+ 2238  ping central-kube.smartlink.id
+ 2239  nmap 35.221.146.93
+ 2240  whois 142.251.12.95
+ 2241  ping 10.70.74.75
+ 2242  nmap 10.70.74.75
+ 2243  10.70.74.75
+ 2244  ping 10.70.74.75
+ 2245  reboot
+ 2246  ping http://10.70.71.74/
+ 2247  ping 10.70.71.74
+ 2248  ping 10.70.71.4
+ 2249  ls
+ 2250  cd api
+ 2251  php spark serve
+ 2252  ls
+ 2253  cd ..
+ 2254  ls
+ 2255  cd frontend
+ 2256  vue serve
+ 2257  ping facebook.com
+ 2258  php spark serve
+ 2259  sudo apt install vlc
+ 2260  mtr 8.8.8.8
+ 2261  ls
+ 2262  git status
+ 2263  git add .
+ 2264  git status
+ 2265  git commit -m 'update olt view'
+ 2266  git push
+ 2267  ssh 10.70.93.119
+ 2268  ssh admin@10.70.93.119
+ 2269  nslookup
+ 2270  nslookup google.com
+ 2271  nslookup homenet.id
+ 2272  nslookup homenet.co.id
+ 2273  nslookup jinom.net
+ 2274  nslookup amazon.com
+ 2275  nmap 54.239.28.85
+ 2276  mtr 8.8.8.8
+ 2277  nmap http://10.70.105.206/
+ 2278  nmap 10.70.105.206
+ 2279  sudo su
+ 2280  ls
+ 2281  cd api
+ 2282  ls
+ 2283  php spark serve
+ 2284  vue serve
+ 2285  cd ..
+ 2286  lcd frontend
+ 2287  cd frontend
+ 2288  ls
+ 2289  vue serve
+ 2290  ping 8.8.8.8
+ 2291  clear
+ 2292  sudo su
+ 2293  ping 8.8.8.8
+ 2294  traceroute 8.8.8.8
+ 2295  ping 8.8.8.8
+ 2296  cd api
+ 2297  php saprk serve
+ 2298  php spark serve
+ 2299  ls
+ 2300  vue serve
+ 2301  cd ..
+ 2302  ls
+ 2303  cd frontend
+ 2304  vue serve
+ 2305  ping 8.8.8.8
+ 2306  ping google.com
+ 2307  ls
+ 2308  cd api
+ 2309  php spark
+ 2310  ls
+ 2311  php spark serve
+ 2312  cd ..
+ 2313  ls
+ 2314  cd frontend
+ 2315  vue serve
+ 2316  whois 31.13.95.62
+ 2317  whois 140.213.150.18
+ 2318  whois 10.139.78.60
+ 2319  php spark serve
+ 2320  cd api
+ 2321  php spark serve
+ 2322  vue serve
+ 2323  cd ../frontend
+ 2324  vue serve
+ 2325  ping 8.8.8.8
+ 2326  php spark serve
+ 2327  ping google.com
+ 2328  ping 8.8.8.8
+ 2329  php spark serve
+ 2330  dpkg -i *.deb
+ 2331  sudo dpkg -i *.deb
+ 2332  apt istall qml-module-qtquick-controls
+ 2333  apt install qml-module-qtquick-controls
+ 2334  sudo apt install qml-module-qtquick-controls
+ 2335  sudo apt --fix-broken
+ 2336  sudo apt --fix-broken i install
+ 2337  sudo apt --fix-broken install
+ 2338  ls
+ 2339  clear
+ 2340  dpkg -i Termius.deb
+ 2341  sudo dpkg -i Termius.deb
+ 2342  tree
+ 2343  ls
+ 2344  clear
+ 2345  dir
+ 2346  ls
+ 2347  clear
+ 2348  ls
+ 2349  clear
+ 2350  dir
+ 2351  cd ..
+ 2352  ls
+ 2353  clear
+ 2354  dir
+ 2355  tree
+ 2356  ls
+ 2357  clear
+ 2358  dir
+ 2359  php spark serve
+ 2360  ipconfig
+ 2361  ifconnfig
+ 2362  ifconfig
+ 2363  l
+ 2364  gedit .env
+ 2365  php spark serve
+ 2366  nano a.txt
+ 2367  cd api
+ 2368  php spark serve
+ 2369  ls
+ 2370  cd frontend
+ 2371  ls
+ 2372  vue serve
+ 2373  php spark serve
+ 2374  htop
+ 2375  ls
+ 2376  git status
+ 2377  git commit -m 'fix olt view render  script'
+ 2378  git add .
+ 2379  git status
+ 2380  git commit -m 'fix olt view render  script'
+ 2381  git remote -v
+ 2382  git push 
+ 2383  cd /etc/php/8.1/apache2/conf.d
+ 2384  ls
+ 2385  cd ..
+ 2386  ls
+ 2387  cat php.ini
+ 2388  gedit php.ini
+ 2389  cd /etc/apache2
+ 2390  ls
+ 2391  gedit apache2.conf
+ 2392  pwd
+ 2393  sudo service apache2 start
+ 2394  sudo service apache2 restart
+ 2395  sudo su
+ 2396  ls
+ 2397  cd ..
+ 2398  ls
+ 2399  ls -la
+ 2400  ls -lah
+ 2401  cd tsapp
+ 2402  ls
+ 2403  ls -lah
+ 2404  ls
+ 2405  telnet 192.168.39.2
+ 2406  exit
+ 2407  ping 8.8.8.8
+ 2408  mtr 8.8.8.8
+ 2409  gping 8.8.8.8
+ 2410  ping 10.70.112.196
+ 2411  traceroute 10.70.112.196
+ 2412  cd Downloads
+ 2413  yt-dlp https://youtu.be/DbBRO-jUeFQ
+ 2414  yt-dlp -F https://youtu.be/DbBRO-jUeFQ
+ 2415  yt-dlp -f 140 https://youtu.be/DbBRO-jUeFQ
+ 2416  ping 103.122.65.37
+ 2417  nmap 103.122.65.37
+ 2418  ping 103.122.65.37
+ 2419  ping 8.8.8.8
+ 2420  ping 103.122.65.37
+ 2421  traceroute 10.70.117.26
+ 2422  nmap 103.122.65.37
+ 2423  dig google.com
+ 2424  nslookup google.com
+ 2425  dig google.com
+ 2426  nslookup google.com
+ 2427  nmap 103.122.65.37
+ 2428  ping 10.70.117.60
+ 2429  tracroute 10.70.117.60
+ 2430  clear
+ 2431  traceroute 10.70.117.60
+ 2432  traceroute 10.70.117.26
+ 2433  traceroute 10.70.108.126
+ 2434  traceroute -4 10.70.108.126
+ 2435  traceroute -h
+ 2436  traceroute --help
+ 2437  traceroute -4 10.70.108.126
+ 2438  traceroute 10.70.117.26
+ 2439  ping 8.8.8.8
+ 2440  php spark serve
+ 2441  cd api
+ 2442  php spark serve
+ 2443  cd ..
+ 2444  cd frontend
+ 2445  vue serve
+ 2446  ping 10.70.108.26
+ 2447  traceroute 10.70.108.26
+ 2448  traceroute 10.70.94.233
+ 2449  php spark serve
+ 2450  htop
+ 2451  ping 10.70.116.14
+ 2452  ping 192.168.1.97
+ 2453  telnet 192.168.39.2
+ 2454  ping google.com
+ 2455  telnet 192.168.39.2
+ 2456  telnet 10.70.90.206
+ 2457  ping google.com
+ 2458  ping 10.70.93.42
+ 2459  traceroute 10.70.93.42
+ 2460  ping 103.122.65.226
+ 2461  cd api
+ 2462  php spark serve
+ 2463  cd ..
+ 2464  cd frontend
+ 2465  vue serve
+ 2466  touch aktifasi.txt
+ 2467  ls
+ 2468  clear
+ 2469  cd /etc
+ 2470  ls
+ 2471  clear
+ 2472  cd ..
+ 2473  cd ~
+ 2474  cd /etc/apache2/ls
+ 2475  ls
+ 2476  cd /etc/apache2
+ 2477  ls
+ 2478  sudo gedit apache2.conf
+ 2479  ls
+ 2480  cd Web
+ 2481  ls
+ 2482  pwd
+ 2483  sudo service apache2 start
+ 2484  ls
+ 2485  ls -l
+ 2486  cd network-setup
+ 2487  ls
+ 2488  ls -l\n: 1664937069:0;ls -l
+ 2489  cd ..
+ 2490  ls
+ 2491  cd network-setup
+ 2492  ls
+ 2493  c ..
+ 2494  ls
+ 2495  cd ..
+ 2496  ls -l
+ 2497  cd ..
+ 2498  ls -l
+ 2499  chmod 775 Web
+ 2500  ls -l
+ 2501  chmod 777 Web
+ 2502  ls -l
+ 2503  service apache2 restart
+ 2504  ls -l
+ 2505  cd /var
+ 2506  ls
+ 2507  ls -
+ 2508  ls -l
+ 2509  cd www
+ 2510  ls -l
+ 2511  cd html
+ 2512  ls -l
+ 2513  cd /etc/apache2
+ 2514  ls
+ 2515  cd sites-available
+ 2516  ls
+ 2517  service apache2 restart
+ 2518  sudo a2enmod php8.1 
+ 2519  sudo service apache2 restart
+ 2520  apt-get install libapache2-mod-php8.1
+ 2521  sudo apt-get install libapache2-mod-php8.1
+ 2522  sudo service apache2 restart
+ 2523  sudo service apache2 reload
+ 2524  sudo service apache2 restart
+ 2525  sudo a2enmod php8.1 
+ 2526  sudo service apache2 restart
+ 2527  sudo apt-get install libapache2-mod-php8.1
+ 2528  php
+ 2529  sudo service apache2 restart
+ 2530  a2query -m php8.1
+ 2531  sudo a2enmod php8.1
+ 2532  sudo service apache2 restart
+ 2533  libapache2-mod-php
+ 2534  sudo apt install libapache2-mod-php
+ 2535  cd /var/www/html
+ 2536  ls
+ 2537  ls -l
+ 2538  chmod +x index.php
+ 2539  sudo chmod +x index.php
+ 2540  ls
+ 2541  cd ..
+ 2542  ls
+ 2543  ls -l
+ 2544  cd html
+ 2545  ls
+ 2546  ls -l
+ 2547  rm index.
+ 2548  rm index.php
+ 2549  sudo rm index.php
+ 2550  ls
+ 2551  touch index.php
+ 2552  ls
+ 2553  touch index.php
+ 2554  ls
+ 2555  cd ..
+ 2556  ls
+ 2557  cd html
+ 2558  ls
+ 2559  sudo touch index.php
+ 2560  ls
+ 2561  ls -l
+ 2562  chmod 755 index.php
+ 2563  sudo chmod 755 index.php
+ 2564  ls -l
+ 2565  nano index.
+ 2566  nano index.php
+ 2567  sudo nano index.php
+ 2568  nano index.php
+ 2569  sudo service apache2 restart
+ 2570  cd ..
+ 2571  ls -l
+ 2572  cd html
+ 2573  ls
+ 2574  nano index.php
+ 2575  sudo nano index.php
+ 2576  cd /etc/apache2
+ 2577  ls
+ 2578  git clone https://github.com/stefanfredik/mytextnotes.git
+ 2579  touch Apache.txt
+ 2580  git remote add origin https://github.com/stefanfredik/mytextnotes.git
+ 2581  cd mytextnotes
+ 2582  ls
+ 2583  git add .
+ 2584  git config --global --add safe.directory '/media/homenet/Data/Notes/Github Notes/mytextnotes'\n
+ 2585  git remote add origin https://github.com/stefanfredik/mytextnotes.git
+ 2586  git remote -v
+ 2587  git add .
+ 2588  git commit 'update linux notes'
+ 2589  git commit -m 'update linux notes'
+ 2590  git push
+ 2591  cd /etc
+ 2592  ls
+ 2593  cd apache2
+ 2594  ls
+ 2595  cd sites-
+ 2596  cd sites-enabled
+ 2597  ls
+ 2598  sudo gedit 000-default.conf
+ 2599  sudo service apache2 restart
+ 2600  clear
+ 2601  ls
+ 2602  ls -l
+ 2603  cd /etc
+ 2604  cd apache2
+ 2605  ls
+ 2606  clear
+ 2607  ls
+ 2608  clear
+ 2609  ls
+ 2610  cd ap
+ 2611  cd apache2
+ 2612  ls
+ 2613  sudo gedit apache2.conf
+ 2614  sudo service apache2 restart
+ 2615  pwd
+ 2616  ls
+ 2617  cd conf-enabled/
+ 2618  ls
+ 2619  cd ..
+ 2620  ls
+ 2621  cd sites-enabled
+ 2622  ls
+ 2623  sudo gedit 000-default.conf
+ 2624  sudo service apache2 restart
+ 2625  ls
+ 2626  ls -l
+ 2627  cd web
+ 2628  ls -l
+ 2629  stat network-setup
+ 2630  gedit /etc/apache2/apache2.conf
+ 2631  sudo service apache2 restart
+ 2632  ls /var/www/html
+ 2633  ls -l /var/www/html
+ 2634  cd ..
+ 2635  ls -l /var/www/
+ 2636  ls -l /var
+ 2637  ls -l /var/www/html
+ 2638  ls -l /var/www/
+ 2639  service mysql stop
+ 2640  service mysql start
+ 2641  cd /etc/apache2
+ 2642  ls
+ 2643  cd sites-enabled
+ 2644  ls
+ 2645  cd ..
+ 2646  cd conf-enabled
+ 2647  ls
+ 2648  cd ..
+ 2649  ls
+ 2650  clear
+ 2651  cd ..
+ 2652  ls
+ 2653  service mysql restart
+ 2654  ls
+ 2655  clear
+ 2656  ls
+ 2657  clear
+ 2658  ls
+ 2659  cd api
+ 2660  php spark serve
+ 2661  cd ..
+ 2662  cd frontend
+ 2663  vue serve
+ 2664  cd ~
+ 2665  ls
+ 2666  cd web
+ 2667  ls
+ 2668  chown www-data:www-data network-setup
+ 2669  sudo chown www-data:www-data network-setup
+ 2670  ls -l
+ 2671  chmod 775 network-setup
+ 2672  sudo chmod 775 network-setup
+ 2673  ls -l
+ 2674  sudo chmod 755 network-setup
+ 2675  ls -l
+ 2676  ls
+ 2677  sudo gedit 000-default.conf
+ 2678  service apache2 restart
+ 2679  ls
+ 2680  lah
+ 2681  l
+ 2682  service apache2 restart
+ 2683  sudo service apache2 restart
+ 2684  sudo service apache stop
+ 2685  sudo service apache2 stop
+ 2686  sudo service apache2 start
+ 2687  sudo service apache2 restart
+ 2688  ls
+ 2689  cd network-setup/api/public/
+ 2690  pwd
+ 2691  ls
+ 2692  sudo service apache2 restart
+ 2693  ls -l
+ 2694  cd ..
+ 2695  ls
+ 2696  cd .
+ 2697  ls
+ 2698  cd ..
+ 2699  ls
+ 2700  l
+ 2701  sudo chmod 755 -R network-setup
+ 2702  cd network-setup
+ 2703  ls -l
+ 2704  cd ..
+ 2705  ls
+ 2706  chown -R www-data:www-data network-setup
+ 2707  sudo chown -R www-data:www-data network-setup
+ 2708  ls
+ 2709  cd network-setup
+ 2710  ls -l
+ 2711  cd ..
+ 2712  sudo service apache2 restart
+ 2713  ping 8.8.8.8
+ 2714  traceroute 8.8.8.8
+ 2715  sudo service apache2 restart
+ 2716  group
+ 2717  groups
+ 2718  users
+ 2719  sudo users
+ 2720  sudo groups
+ 2721  users
+ 2722  users -h
+ 2723  users --help
+ 2724  sudo rsync -av /var/www/html /home/web/network-setup/
+ 2725  pwd
+ 2726  ls
+ 2727  ls -l
+ 2728  pwd
+ 2729  cd network-setup
+ 2730  pwd
+ 2731  sudo service apache2 restart
+ 2732  ls
+ 2733  cd web
+ 2734  ls
+ 2735  sudo chmod 777 *
+ 2736  ls -l
+ 2737  sudo chmod -R 777 *
+ 2738  ls
+ 2739  sudo rsync -av /var/www/html /home/homenet/web/network-setup/
+ 2740  ls
+ 2741  sudo service apache2 restart
+ 2742  ls
+ 2743  mv network-setup ts
+ 2744  ls
+ 2745  sudo service apache2 restart
+ 2746  sudo apachectl configtest
+ 2747  sudo service apache2 restart
+ 2748  sudo systemctl reload apache2
+ 2749  ls
+ 2750  l
+ 2751  chown -R homenet:homenet ts
+ 2752  sudo chown -R homenet:homenet ts
+ 2753  ls
+ 2754  cd ts
+ 2755  ls
+ 2756  cd html
+ 2757  ls
+ 2758  cd ..
+ 2759  ls
+ 2760  rm -r html
+ 2761  ls
+ 2762  touch index.php
+ 2763  nano index.php
+ 2764  ls
+ 2765  cd ..
+ 2766  sudo service apache2 restart
+ 2767  sudo service apache2 start
+ 2768  ps -ef | egrep '(httpd|apache2|apache)' | grep -v `whoami` | grep -v root | head -n1 | awk '{print $1}'
+ 2769  ping 10.70.117.65
+ 2770  cd /var/www
+ 2771  ls
+ 2772  l
+ 2773  cd html
+ 2774  l
+ 2775  cd ..
+ 2776  ls
+ 2777  l
+ 2778  cd ~
+ 2779  ls
+ 2780  cd web
+ 2781  ls
+ 2782  ls -l
+ 2783  pwd
+ 2784  c
+ 2785  cd ts
+ 2786  pwd
+ 2787  cd /etc
+ 2788  cd apache2
+ 2789  ls
+ 2790  gedit apache2.conf
+ 2791  sudo gedit apache2.conf
+ 2792  sudo service apache2 restart
+ 2793  cd sites-enabled
+ 2794  ls
+ 2795  sudo gedit 000-default.conf
+ 2796  sudo service apache2 restart
+ 2797  ls
+ 2798  l
+ 2799  sudo chmod 777 index.php
+ 2800  l
+ 2801  cd ..
+ 2802  ls
+ 2803  gedit apache2.conf
+ 2804  sudo gedit apache2.conf
+ 2805  cd /usr/share
+ 2806  ls
+ 2807  l
+ 2808  cd phpmyadmin
+ 2809  l
+ 2810  cd ..
+ 2811  stat phpmyadmin
+ 2812  ping 10.70.64.195
+ 2813  traceroute 10.70.64.195
+ 2814  ls
+ 2815  sudo su
+ 2816  git status
+ 2817  git add .
+ 2818  git commit -m 'update github'
+ 2819  git push
+ 2820  git status
+ 2821  git add .
+ 2822  git status
+ 2823  ls
+ 2824  cd ..
+ 2825  ls
+ 2826  git add .
+ 2827  git status
+ 2828  git commit -m 'update github  notes'
+ 2829  git push
+ 2830  a2enmod php8.1
+ 2831  sudo a2enmod php8.1
+ 2832  sudo a2dismod php8.1 
+ 2833  sudo a2enmod php8.1
+ 2834  poweroff
+ 2835  sudo su
+ 2836  ping 10.70.96.99
+ 2837  traceroute 10.70.96.99
+ 2838  ping 10.70.96.98
+ 2839  traceroute 10.70.96.99
+ 2840  ping 10.70.96.98
+ 2841  ls
+ 2842  cd Downloads
+ 2843  ls
+ 2844  cd Programs
+ 2845  ls
+ 2846  git clone git@github.com:stefanfredik/dicoding-web-dasar-submission.git
+ 2847  ls
+ 2848  cd dicoding-web-dasar-submission
+ 2849  ls
+ 2850  cd api
+ 2851  php spark serve
+ 2852  cd ..
+ 2853  cd frontend
+ 2854  ls
+ 2855  vue serve
+ 2856  git clone git@github.com:stefanfredik/spk-beasiswa.git
+ 2857  sudo su
+ 2858  cd /etc
+ 2859  ls
+ 2860  cd apache2
+ 2861  ls
+ 2862  sudo gedit apache2.conf
+ 2863  ls
+ 2864  php spark migrate
+ 2865  php spark migrate:status
+ 2866  ls
+ 2867  php spark serve
+ 2868  composer install
+ 2869  php spark serve
+ 2870  php spark migrate:status
+ 2871  php spark migrate
+ 2872  php spark serev
+ 2873  php spark serve
+ 2874  code .
+ 2875  ping 10.70.89.19
+ 2876  mtr 8.8.8.8
+ 2877  ping 8.8.8.8
+ 2878  php spark serve
+ 2879  ping 103.122.65.67
+ 2880  traceroute 103.122.65.67
+ 2881  ping 103.122.65.67
+ 2882  traceroute 8.8.8.8
+ 2883  mtr 8.8.8.8
+ 2884  ping  202.169.59.201 
+ 2885  mtr 8.8.8.8
+ 2886  sudo service apache2 start
+ 2887  clear
+ 2888  cd /
+ 2889  cd /etc
+ 2890  ls
+ 2891  cd ap
+ 2892  cd apache2
+ 2893  ls
+ 2894  clear
+ 2895  dir
+ 2896  ls
+ 2897  cd conf-
+ 2898  cd conf-enabled
+ 2899  ls
+ 2900  cd ..
+ 2901  cd sites-
+ 2902  cd sites-enabled
+ 2903  ls
+ 2904  sudo gedit 000-default.conf
+ 2905  ls
+ 2906  cd web
+ 2907  ls
+ 2908  cd ts
+ 2909  ls
+ 2910  ls -l
+ 2911  ls
+ 2912  cd ..
+ 2913  ls
+ 2914  cd ts
+ 2915  ls
+ 2916  pwd
+ 2917  sudo service apache2 restart
+ 2918  ls
+ 2919  ls -l
+ 2920  ls
+ 2921  sudo gedit ../apache2.conf
+ 2922  ls
+ 2923  clear
+ 2924  sudo service apache2 restart
+ 2925  ls
+ 2926  cat index.php
+ 2927  ls
+ 2928  cd ..
+ 2929  ls
+ 2930  cat envvars
+ 2931  ls
+ 2932  cat magic
+ 2933  ls
+ 2934  cd mods-
+ 2935  cd mods-available
+ 2936  ls
+ 2937  cat userdir.
+ 2938  cat userdir.conf
+ 2939  touch index.php
+ 2940  nano index.php
+ 2941  ls
+ 2942  cd ..
+ 2943  ls
+ 2944  sudo gedit sites-enabled
+ 2945  ls
+ 2946  cd sites-enabled
+ 2947  ls
+ 2948  nano 000-default.conf
+ 2949  gedit nano 000-default.conf
+ 2950  ls
+ 2951  sudo nano 000-default.conf
+ 2952  sudo service apache2 restart
+ 2953  ls
+ 2954  cd /home/homenet/web/ts
+ 2955  ls
+ 2956  ls -l
+ 2957  l
+ 2958  cd ..
+ 2959  l
+ 2960  ls
+ 2961  cd ts
+ 2962  ls
+ 2963  apache2
+ 2964  uname -a
+ 2965  lsb_release -a
+ 2966  ufw app lis
+ 2967  ufw app list
+ 2968  sudo ufw app list
+ 2969  ufw status
+ 2970  sudo ufw status
+ 2971  sudo systemctl status apache2
+ 2972  hostname -l
+ 2973  hostname -i
+ 2974  hostname -I
+ 2975  ls
+ 2976  ufw
+ 2977  uwf app list
+ 2978  uwf app listsudo 
+ 2979  sudo uwf app list
+ 2980  sudo ufw app list
+ 2981  sudo ufw allow 'Apache'
+ 2982  sudo ufw status
+ 2983  ufw --help
+ 2984  ufw enable
+ 2985  sudo ufw enable
+ 2986  sudo ufw status
+ 2987  ls
+ 2988  sudo su
+ 2989  pwd
+ 2990  l
+ 2991  ls
+ 2992  l
+ 2993  sudo chmod -R 775 /ts
+ 2994  ls
+ 2995  sudo chmod -R 775 ts
+ 2996  l
+ 2997  mv ts /var/www
+ 2998  ls
+ 2999  sudo mv ts /var/www
+ 3000  ls
+ 3001  cd api
+ 3002  php spark composer.
+ 3003  php spark serve
+ 3004  cd ..
+ 3005  ls
+ 3006  cd tsapp
+ 3007  ls
+ 3008  pwd
+ 3009  ls
+ 3010  php spark serve
+ 3011  ls
+ 3012  cd ..
+ 3013  ls
+ 3014  cd network-setup
+ 3015  ls
+ 3016  cd frontend
+ 3017  vue serve
+ 3018  ls
+ 3019  l
+ 3020  pwd
+ 3021  cd /var/www
+ 3022  l
+ 3023  cd ts
+ 3024  l
+ 3025  clear
+ 3026  l
+ 3027  pwd
+ 3028  cd /var/www/html
+ 3029  ls
+ 3030  l
+ 3031  cd ..
+ 3032  l
+ 3033  sudo chmod 777 -R ts
+ 3034  pwd
+ 3035  l
+ 3036  sudo service apache2 restart
+ 3037  ls
+ 3038  clear
+ 3039  ls
+ 3040  php spark serv
+ 3041  php spark serve
+ 3042  ls
+ 3043  cd frontend
+ 3044  vue serve
+ 3045  clear
+ 3046  vue serve
+ 3047  npm buil
+ 3048  npm build
+ 3049  npm run build
+ 3050  ping 10.70.66.131
+ 3051  traceroute 10.70.66.131
+ 3052  ping 10.70.66.131
+ 3053  php spark serve
+ 3054  npm run build
+ 3055  ls
+ 3056  cd frontend
+ 3057  npm run build
+ 3058  sudo service apache2 start
+ 3059  sudo service apache2 restart
+ 3060  php spark serve
+ 3061  cd api
+ 3062  php spark serve
+ 3063  ls
+ 3064  cd ..
+ 3065  ls
+ 3066  cd frontend
+ 3067  ls
+ 3068  vue serve
+ 3069  cd api
+ 3070  ls
+ 3071  php spark serve
+ 3072  cd ..
+ 3073  ls
+ 3074  cd frontend
+ 3075  ls
+ 3076  vue serve
+ 3077  php spark serve
+ 3078  sudo service apache2 restart
+ 3079  sudo nano apache2.conf
+ 3080  sudo service apache2 restart
+ 3081  sudo gedit apache2.conf
+ 3082  sudo service apache2 restart
+ 3083  sudo gedit apache2.conf
+ 3084  sudo service apache2 restart
+ 3085  ls
+ 3086  sudo su
+ 3087  sudo gedit apache2.conf
+ 3088  sudo service apache2 restart
+ 3089  sudo gedit apache2.conf
+ 3090  sudo service apache2 restart
+ 3091  sudo gedit apache2.conf
+ 3092  cd  api
+ 3093  php spark serve
+ 3094  cd ..
+ 3095  ls
+ 3096  cd frontend
+ 3097  ls
+ 3098  vue serve
+ 3099  sudo gedit apache2.conf
+ 3100  sudo system restart apache2
+ 3101  sudo systemctl restart apache2
+ 3102  ls
+ 3103  cd sites-enabled
+ 3104  ls
+ 3105  sudo gedit ts.conf
+ 3106  sudo service apache2 restart
+ 3107  sudo gedit apache2.conf
+ 3108  sudo service apache2 restart
+ 3109  sudo systemctl restart apache2
+ 3110  sudo systemctl status apache2.service
+ 3111  ls
+ 3112  sudo systemctl status apache2.service
+ 3113  sudo gedit apache2.conf
+ 3114  ls
+ 3115  sudo gedit ts.conf
+ 3116  sudo systemctl status apache2.service
+ 3117  ls
+ 3118  sudo gedit apache2.conf
+ 3119  sudo systemctl status apache2.service
+ 3120  sudo systemctl restart apache2
+ 3121  sudo gedit ts.conf
+ 3122  sudo systemctl restart apache2
+ 3123  cd ..
+ 3124  ls
+ 3125  sudo gedit apache2.conf
+ 3126  cd sites-
+ 3127  cd sites-enabled
+ 3128  sudo gedit ts.conf
+ 3129  sudo systemctl restart apache2
+ 3130  sudo nano /etc/host
+ 3131  sudo nano /etc/hosts
+ 3132  service hostname restart
+ 3133  sudo nano /etc/hosts
+ 3134  sudo gedit ts.conf
+ 3135  sudo systemctl restart apache2
+ 3136  sudo nano /etc/hosts
+ 3137  sudo systemctl restart apache2
+ 3138  sudo nano /etc/hosts
+ 3139  sudo systemctl restart apache2
+ 3140  sudo a2ensite ts.conf
+ 3141  sudo systemctl restart apache2
+ 3142  index.php
+ 3143  touch index.php
+ 3144  nano index.php
+ 3145  sudo systemctl restart apache2
+ 3146  ls
+ 3147  clear
+ 3148  npm run build
+ 3149  sudo systemctl restart apache2
+ 3150  touch .htaccess
+ 3151  nano .htaccess
+ 3152  php spark serve
+ 3153  ping 10.70.93.106
+ 3154  traceroute 10.70.93.106
+ 3155  ping 10.70.93.106
+ 3156  ping 8.8.8.8
+ 3157  php spark serve
+ 3158  cd api
+ 3159  php spark serve
+ 3160  ls
+ 3161  cd ..
+ 3162  ls
+ 3163  cd frontend
+ 3164  vue serve
+ 3165  ping 10.70.123.1
+ 3166  nmap 10.70.123.1
+ 3167  ping 8.8.8.8
+ 3168  ping google.com
+ 3169  php spark serve
+ 3170  lsb-release
+ 3171  lsb_release -a
+ 3172  php spark serve
+ 3173  cd tsapp
+ 3174  cd ..
+ 3175  cd network-setup
+ 3176  cd api
+ 3177  php spakr serev
+ 3178  php spakr serve
+ 3179  php spark serve
+ 3180  cd ..
+ 3181  cd frontend
+ 3182  vue serve
+ 3183  php spark serve
+ 3184  ping 203.116.185.1
+ 3185  whois http://203.116.185.1/
+ 3186  whois 203.116.185.1
+ 3187  traceroute 203.116.185.1
+ 3188  whois 80.249.212.55
+ 3189  traceroute 203.116.185.1
+ 3190  ping 8.8.8.8
+ 3191  php spark serve
+ 3192  cd api
+ 3193  php spark serv
+ 3194  php spark serve
+ 3195  cd ..
+ 3196  cd frontend
+ 3197  ls
+ 3198  vue serve
+ 3199  apt install nginxx
+ 3200  sudo su
+ 3201  sudo service apache2 stop
+ 3202  service apache2 disable
+ 3203  sudo systemctl disable apache2.service
+ 3204  sudo service nginx start
+ 3205  cd /etc/nginx
+ 3206  ls
+ 3207  cat nginx.conf
+ 3208  ls
+ 3209  cd conf.d
+ 3210  ls
+ 3211  cd ..
+ 3212  cd sites-
+ 3213  cd sites-enabled
+ 3214  ls
+ 3215  cd def
+ 3216  caat default
+ 3217  cat default 
+ 3218  sudo apt intall php-nginx
+ 3219  sudo apt install php-nginx
+ 3220  \tls
+ 3221  sudo gedit default
+ 3222  sudo service nginx restart
+ 3223  sudo service nginx stop
+ 3224  ssudo service apache2 start
+ 3225  sudo service apache2 start
+ 3226  sudo apt update apache2 restart
+ 3227  sudo apt update apache2 start
+ 3228  sudo apt update apache2
+ 3229  sudo apt upgrade apache2
+ 3230  cd /media/homenet/Data/Mini\ Project
+ 3231  ls
+ 3232  git clone https://github.com/stefanfredik/spk-beasiswa.git
+ 3233  ls
+ 3234  clear
+ 3235  dir
+ 3236  git clone https://github.com/stefanfredik/spk-blt.git
+ 3237  cd  spk-blt
+ 3238  ls
+ 3239  php spark serve
+ 3240  code .
+ 3241  php spark serve
+ 3242  php spark db:create db_spk
+ 3243  sudo service apache2 start
+ 3244  sudo service mysql start
+ 3245  php spark db:create db_spk
+ 3246  php spark db:create db_blt
+ 3247  php spark migrate
+ 3248  sudo systemctl restart NetworkManager
+ 3249  sudo apt-mark hold openvpn
+ 3250  cd /etc/NetworkManager/system-connections
+ 3251  ls
+ 3252  sudo gedit VPN\ Pamogan.nmconnection
+ 3253  nmcli device status
+ 3254  sudo systemctl status system-networkd
+ 3255  sudo systemctl status systemd-networkd.service
+ 3256  sudo systemctl start systemd-networkd.service
+ 3257  apt upgrade -y
+ 3258  sudo apt upgrade -y
+ 3259  reboot
+ 3260  sudo apt-get install pptpd ppp pptp-linux
+ 3261  sudo service pptpd restart
+ 3262  sudo pon
+ 3263  sudo pon provider
+ 3264  sudo apt-get -f install ppp network-manager-pptp pppconfig pppoeconf pptp-linux
+ 3265  nmcli
+ 3266  nmcli device set virbr0 managed yes
+ 3267  nmcli help
+ 3268  ifconfig bridge0 down
+ 3269  sudo ifconfig bridge0 down
+ 3270  sudo ifconfig virbr0 down
+ 3271  sudo /etc/init.d/networking restart
+ 3272  netplan apply
+ 3273  sudo netplan apply
+ 3274  htop
+ 3275  code .
+ 3276  php spark serve
+ 3277  code .
+ 3278  sudo ifconfig
+ 3279  sudo ifdown docker0
+ 3280  sudo ifconfig docker0
+ 3281  ifconfig
+ 3282  sudo ifconfig docker0 down
+ 3283  ifconfig
+ 3284  ip route
+ 3285  ip monitor
+ 3286  clear
+ 3287  sudo apt install vpn
+ 3288  sudo apt install pptp
+ 3289  sudo apt install pptp-client
+ 3290  udo service NetworkManager restart
+ 3291  sudo service NetworkManager restart
+ 3292  nmcli device status
+ 3293  sudo ufw
+ 3294  sudo ufw list
+ 3295  sudo ufw disable
+ 3296  whois 31.13.95.61
+ 3297  whois 142.251.10.95
+ 3298  git push
+ 3299  git add .
+ 3300  "- Optimasi ROS ( Disable mangel, delete simple queue packet mark )\n- Optimasi ONT ( Ganti chanel dan bandwith )\n- Reboot ONT dan ROS"
+ 3301  git config --global --add safe.directory '/media/homenet/Data/Mini Project/spk-blt'
+ 3302  git add .
+ 3303  git status
+ 3304  git remote
+ 3305  git remote -v
+ 3306  git commit -m 'update post response'
+ 3307  git push
+ 3308  ping http://10.70.93.5/
+ 3309  ping 10.70.93.5
+ 3310  cd api
+ 3311  php spark serve
+ 3312  cd ..
+ 3313  ls
+ 3314  cd network-setup
+ 3315  cd frontend
+ 3316  vue serve
+ 3317  git status
+ 3318  git fetch
+ 3319  git pull
+ 3320  php spark serve
+ 3321  php spark serve -p
+ 3322  php spark serve 8000
+ 3323  php spark
+ 3324  php spark help
+ 3325  php spark help serve
+ 3326  php spark serve -port 8000
+ 3327  php spark migrate
+ 3328  composer install
+ 3329  php spark serve
+ 3330  php spark serve -port 8000
+ 3331  ping 8.8.8.8
+ 3332  sudo service nginx stop
+ 3333  sudo service apache2 start
+ 3334  alias spark='php spark'
+ 3335  spark db:seed
+ 3336  spark db:seed PendudukSeeder
+ 3337  reboot
+ 3338  sudo reboot
+ 3339  php spark serve
+ 3340  sudo su
+ 3341  git status
+ 3342  git add .
+ 3343  git status
+ 3344  git commit -m 'update penduduk controller'
+ 3345  git push
+ 3346  cd api
+ 3347  php spark serve
+ 3348  ccd ..
+ 3349  cd ..
+ 3350  cd frontend
+ 3351  vue serve
+ 3352  git fetch
+ 3353  git pull
+ 3354  git status
+ 3355  git log
+ 3356  php spark serve
+ 3357  php spark serve -port 8000
+ 3358  php spark migrate
+ 3359  php spark migrate:status
+ 3360  php spark migrate:rollback
+ 3361  php spark migrate:status
+ 3362  php spark migrate
+ 3363  sudo service apache2 start
+ 3364  sudo service nginx stop
+ 3365  sudo service apache2 start
+ 3366  clear
+ 3367  dir
+ 3368  clear
+ 3369  sudo su
+ 3370  whois 31.13.95.36
+ 3371  ping 10.70.65.137
+ 3372  nmap 10.70.65.137
+ 3373  git status
+ 3374  git add .
+ 3375  git commit -m 'create controller branch menu'
+ 3376  git push
+ 3377  php spark serve
+ 3378  clear
+ 3379  php spark migrate:status
+ 3380  php spark migrate:rollback
+ 3381  php spark migrate:status
+ 3382  php spark make:migration PesertaMigration
+ 3383  php spark migrate:status
+ 3384  ls
+ 3385  clear
+ 3386  php spark serve
+ 3387  clear
+ 3388  php spark migrate:rollback
+ 3389  php spark migrate
+ 3390  php db:seed PendudukSeeder
+ 3391  php spark  db:seed PendudukSeeder
+ 3392  php spark migrate:rollback
+ 3393  php spark migrate
+ 3394  php spark  db:seed PendudukSeeder
+ 3395  php spark make:controller Datapeserta
+ 3396  php spark make:controller Blt/Datapeserta
+ 3397  php spark make:controller Bntp/Datapeserta
+ 3398  sudo service apache2 start
+ 3399  php spark migrate:status
+ 3400  php spark make:migration PesertaMigration
+ 3401  php spark make:migration BltMigration
+ 3402  php spark migration:status
+ 3403  php spark migrate:status
+ 3404  php spark migration
+ 3405  php spark migrate
+ 3406  git add .
+ 3407  git commit -m 'update kriteria'
+ 3408  git push
+ 3409  git fetch
+ 3410  git pull
+ 3411  php spark migrate:status
+ 3412  php spark migrate:rollback
+ 3413  php spark migrate:status
+ 3414  php spark migrate
+ 3415  service apache2 start
+ 3416  php spark migrate:status
+ 3417  php spark migrate
+ 3418  php spark migrate:status
+ 3419  php spark db:seed PendudukSeeder
+ 3420  php spark serve
+ 3421  whois 202.81.117.6
+ 3422  whois 157.240.218.62
+ 3423  php spark serve
+ 3424  git add .
+ 3425  git commit -m 'parsing data to array'
+ 3426  git push
+ 3427  sudo -s
+ 3428  lsusb
+ 3429  cd tools
+ 3430  update
+ 3431  ./update
+ 3432  update bulkcmd run "saveenv"
+ 3433  ./update bulkcmd run "saveenv"
+ 3434  ./update <chipid>
+ 3435  ./update chipid
+ 3436  ./update chipinfo
+ 3437  ./update read
+ 3438  ./update chipinfo
+ 3439  ./update partition bootloader '/media/homenet/WEPE/backup/bootloader.img' 
+ 3440  git fetch
+ 3441  git pull
+ 3442  git status
+ 3443  php spark serve
+ 3444  git fetch
+ 3445  git pull
+ 3446  traceroute 10.70.89.170
+ 3447  ping 10.70.89.170
+ 3448  cd api
+ 3449  php spark serve
+ 3450  cd ..
+ 3451  ls
+ 3452  cd frontend
+ 3453  vue serve
+ 3454  ping 10.9.9.1
+ 3455  ping 10.70.96.228:1002
+ 3456  ping 10.70.117.109
+ 3457  ping 10.70.117.108
+ 3458  ping 10.70.117.109
+ 3459  ping 10.70.117.108
+ 3460  ping 10.70.117.126
+ 3461  ping 10.70.107.141
+ 3462  git fetch
+ 3463  git pull
+ 3464  git log
+ 3465  git status
+ 3466  git restore 3b9bf8af3b929a595b04a281512f100f27d01f8b
+ 3467  git restore app/Views/blt/perhitungan/index.php
+ 3468  git pull
+ 3469  php spark serve --port 8000
+ 3470  sudo service apache2 start
+ 3471  php spark migrate
+ 3472  git add .
+ 3473  git commit -m 'update bpnt menu'
+ 3474  git push
+ 3475  ping 10.70.111.50
+ 3476  php spark serve
+ 3477  ping 10.70.107.250
+ 3478  ping 192.168.1.1
+ 3479  nmap 192.168.1.1
+ 3480  github clone https://github.com/stefanfredik/dicoding-web-dasar-submission.git
+ 3481  git clone https://github.com/stefanfredik/dicoding-web-dasar-submission.git
+ 3482  ls
+ 3483  cd dicoding-web-dasar-submission
+ 3484  ls
+ 3485  cd ..
+ 3486  ls
+ 3487  rm dicoding-web-dasar-submission
+ 3488  ls
+ 3489  rm -rf dicoding-web-dasar-submission
+ 3490  ls
+ 3491  git clone https://github.com/stefanfredik/bookshelf-front-end-dasar-dicoding.git
+ 3492  ls
+ 3493  cd bookshelf-front-end-dasar-dicoding
+ 3494  ls
+ 3495  code .
+ 3496  git add .
+ 3497  git config --global --add safe.directory '/media/homenet/Data/Mini Project/bookshelf-front-end-dasar-dicoding'
+ 3498  git add .
+ 3499  git status
+ 3500  git commit -m 'initialize js'
+ 3501  git push
+ 3502  poweroff
+ 3503  sudo poweroff
+ 3504  ping 8.8.8.8
+ 3505  ping amazon.com
+ 3506  ping alibaba.com
+ 3507  ping gmail.com
+ 3508  ping dicoding.com
+ 3509  ping netflix.com
+ 3510  ping cisco.com
+ 3511  ping alibaba.com
+ 3512  ping internet.com
+ 3513  dnslookup
+ 3514  nslookup -type=ns google.com
+ 3515  nslookup -type=ns amazon.com
+ 3516  ifconfig
+ 3517  nsupdate
+ 3518  dig ns google.com
+ 3519  ns amazon.com
+ 3520  dig ns amazon.com
+ 3521  dig ns android.com
+ 3522  dig ns amazon.com
+ 3523  ns amazon.com
+ 3524  nslookup -type=ns google.com
+ 3525  nslookup -type=ns dicoding.com
+ 3526  nslookup -type=ns bbc.com
+ 3527  sudo resolvectl flush-caches
+ 3528  nslookup -type=ns bbc.com
+ 3529  sudo resolvectl flush-caches
+ 3530  ping amazon.com
+ 3531  ping dicoding.com
+ 3532  ping xnxx.com
+ 3533  ping 10.70.93.59
+ 3534  php spark serve
+ 3535  ls
+ 3536  cd Documents
+ 3537  ls
+ 3538  cd ..
+ 3539  ls
+ 3540  cd Test
+ 3541  ls
+ 3542  /bin/python3 /home/homenet/Downloads/Test/test.py
+ 3543  /bin/python3 /home/homenet/Downloads/Test/ctf.py
+ 3544  /bin/python3 /home/homenet/Downloads/Test/test.py
+ 3545  /bin/python3 /home/homenet/Downloads/Test/ctf.py
+ 3546  C/bin/python3 /home/homenet/Downloads/Test/ctf.py
+ 3547  /bin/python3 /home/homenet/Downloads/Test/ctf.py
+ 3548  ping 10.70.93.60
+ 3549  git clone https://github.com/stefanfredik/spk-pkh.git
+ 3550  php spark serve
+ 3551  sudo service mysql start
+ 3552  sudo service apache2 start
+ 3553  ls
+ 3554  php spark db:create db_pkh
+ 3555  alias spark='php spark'
+ 3556  spark migrations
+ 3557  spark migrate:status
+ 3558  spark migrate
+ 3559  ls
+ 3560  clear
+ 3561  dir
+ 3562  ls
+ 3563  clear
+ 3564  ls
+ 3565  clear
+ 3566  git add .
+ 3567  git config --global --add safe.directory '/media/homenet/Data/Mini Project/spk-pkh'
+ 3568  git commit -m 'update menu'
+ 3569  git status
+ 3570  git add .
+ 3571  git commit -m 'update menu'
+ 3572  git status
+ 3573  git remote -v
+ 3574  git push
+ 3575  php spark serve
+ 3576  cd api
+ 3577  php spark serve
+ 3578  cd ..
+ 3579  cd frontend
+ 3580  ls
+ 3581  vue serve
+ 3582  code .
+ 3583  php spark serve
+ 3584  php spark serve --port 8000
+ 3585  git clone git clone https://github.com/epicmaxco/vuestic-admin.git myproject
+ 3586  git clone https://github.com/epicmaxco/vuestic-admin.git myproject
+ 3587  clear
+ 3588  dir
+ 3589  cd fe2/
+ 3590  ls
+ 3591  clear
+ 3592  vue serve
+ 3593  yarn install
+ 3594  apt install yarn
+ 3595  sudo apt install yarn
+ 3596  yarn install
+ 3597  ls
+ 3598  npm install --global yarn
+ 3599  sudo npm install --global yarn
+ 3600  yarn install
+ 3601  vue serve
+ 3602  ls
+ 3603  clear
+ 3604  npm run dev
+ 3605  yarn dev
+ 3606  yarn run dev
+ 3607  npm run dev
+ 3608  sudo npm install --global vite
+ 3609  npm run dev
+ 3610  vite
+ 3611  cd ..
+ 3612  clear
+ 3613  vue serve
+ 3614  cd frontend
+ 3615  vue serve
+ 3616  cd ..
+ 3617  cd api
+ 3618  php spark serve
+ 3619  cd frontend
+ 3620  vue serve
+ 3621  git clone https://github.com/coreui/coreui-free-vue-admin-template.git
+ 3622  git status
+ 3623  cd coreui
+ 3624  dir
+ 3625  npm install
+ 3626  clear
+ 3627  npm update
+ 3628  vue serve
+ 3629  ping 10.70.71.52
+ 3630  git commit -m 'front end baru'
+ 3631  git add .
+ 3632  git status
+ 3633  clear
+ 3634  dir
+ 3635  git add .
+ 3636  git status
+ 3637  git add coreui
+ 3638  git status
+ 3639  git add .
+ 3640  git status
+ 3641  git add .
+ 3642  git status
+ 3643  git add .
+ 3644  git status
+ 3645  git add .
+ 3646  git add *
+ 3647  git status
+ 3648  git commit -m 'coreui'
+ 3649  git status
+ 3650  git push
+ 3651  ls
+ 3652  clear
+ 3653  sudo su
+ 3654  ping 8.8.8.8
+ 3655  php spark serve
+ 3656  cd api
+ 3657  php spark serve
+ 3658  cd ..
+ 3659  ls
+ 3660  cd frontend
+ 3661  ls
+ 3662  vue serve
+ 3663  php spark serve
+ 3664  cd api
+ 3665  php spark serve
+ 3666  cd ..
+ 3667  cd frontend
+ 3668  vue serve
+ 3669  ping 35.221.146.93
+ 3670  tracerout 35.221.146.93
+ 3671  tracerou 35.221.146.93
+ 3672  traceroute 35.221.146.93
+ 3673  ping 208.67.222.222
+ 3674  traceroute 208.67.222.222
+ 3675  git clone https://github.com/stefanfredik/spk-pkh.git
+ 3676  php spark serve
+ 3677  clear
+ 3678  dir
+ 3679  clear
+ 3680  php spark db:create db_spkfania
+ 3681  sudo service mysql start
+ 3682  php spark db:create db_spkanisa
+ 3683  php spark migrate:status
+ 3684  php spark migrate
+ 3685  code .
+ 3686  clear
+ 3687  php spark serve
+ 3688  clear
+ 3689  php spark make:controller Landing
+ 3690  clear
+ 3691  git add .
+ 3692  git status
+ 3693  git commit -m 'update landing page'
+ 3694  git status
+ 3695  git push
+ 3696  cd api
+ 3697  ls
+ 3698  clear
+ 3699  php spark serve
+ 3700  cd ..
+ 3701  cd frontend
+ 3702  vue serve
+ 3703  git status
+ 3704  git fetch
+ 3705  git pull
+ 3706  code .
+ 3707  php spark serve
+ 3708  php spark serve --port 8000
+ 3709  ping https://app.openaccess.net.id/
+ 3710  ping app.openaccess.net.id
+ 3711  curl app.openaccess.net.id
+ 3712  curl -X get app.openaccess.net.id
+ 3713  curl -X get https://app.openaccess.net.id
+ 3714  curl -X get https:/app.openaccess.net.id
+ 3715  curl -X get https://app.openaccess.co.id/
+ 3716  curl https://app.openaccess.co.id/
+ 3717  curl https://app.openaccess.co.id
+ 3718  curl https://app.openaccess.co.id/admin
+ 3719  curl https://app.openaccess.co.id/auth/login
+ 3720  traceroute google.com
+ 3721  mtr 8.8.8.8
+ 3722  ping redtube.com
+ 3723  clear
+ 3724  dir
+ 3725  clear
+ 3726  l
+ 3727  git remote add origin git@github.com:stefanfredik/si-pkh.git\ngit branch -M main\ngit push -u origin main
+ 3728  git add .
+ 3729  git init
+ 3730  git add .
+ 3731  git remote -v
+ 3732  git remote
+ 3733  git remote -v
+ 3734  ls
+ 3735  git remote add origin git@github.com:stefanfredik/si-pkh.git\ngit branch -M main\ngit push -u origin main
+ 3736  git push
+ 3737  git push -u
+ 3738  git push -u origin main
+ 3739  \ngit branch -M main\ngit push -u origin main
+ 3740  git remote -v
+ 3741  git add .
+ 3742  git status
+ 3743  git commit -m 'create template'
+ 3744  git push
+ 3745  git status
+ 3746  git push -u origin main
+ 3747  php spark serve
+ 3748  cd api
+ 3749  php spark serve
+ 3750  cd ..
+ 3751  cd frontend
+ 3752  vue serve
+ 3753  cd ..fr
+ 3754  x
+ 3755  CD ..
+ 3756  cd ..
+ 3757  cd frontend
+ 3758  ls
+ 3759  npm run build
+ 3760  cd ..
+ 3761  cd dist
+ 3762  php -S localhost:8081
+ 3763  sudo service apache2 sttart
+ 3764  sudo service apache2 start
+ 3765  touch .htaccess
+ 3766  clear
+ 3767  sudo service apache2 restart
+ 3768  cd /etc/apache2/sites-enabled
+ 3769  ls
+ 3770  clear
+ 3771  cat ts.conf
+ 3772  sudo su
+ 3773  sudo service apache2 start
+ 3774  sudo service apache2 restart
+ 3775  sudo apache2ctl -t
+ 3776  sudo service apache2 restart
+ 3777  ls
+ 3778  cd /var/log/apache2
+ 3779  ls
+ 3780  cat access.log
+ 3781  ls
+ 3782  cat access.log.1
+ 3783  cat access.log
+ 3784  touch .htaccess
+ 3785  gedit .htaccess
+ 3786  ping 147.160.190.113
+ 3787  whois 147.160.190.113
+ 3788  git status
+ 3789  git add .
+ 3790  git commit -m 'update apache2 notes'
+ 3791  php spark serve
+ 3792  vue serve
+ 3793  clear
+ 3794  npm run build
+ 3795  cd /etc
+ 3796  ls
+ 3797  clear
+ 3798  ce apache2
+ 3799  ls
+ 3800  cd apache2
+ 3801  ls
+ 3802  clear
+ 3803  ls
+ 3804  cd sites-enabled
+ 3805  ls
+ 3806  sudo su
+ 3807  touch .htaccess
+ 3808  gedit .htaccess
+ 3809  sudo su
+ 3810  code .
+ 3811  ping 10.70.117.190
+ 3812  ping 10.70.117.90
+ 3813  ping 10.70.117.89
+ 3814  ping 10.70.117.90
+ 3815  ping 10.70.117.190
+ 3816  ping 10.70.117.89
+ 3817  npm kill
+ 3818  npm kill port
+ 3819  npm kill-port 80
+ 3820  npm kill-port --port 80
+ 3821  kill-port --port 80
+ 3822  sudo npm kill-port --port 80
+ 3823  ufw
+ 3824  sudo lsof -i -P -n | grep LISTEN
+ 3825  sudo npm kill-port --port 80
+ 3826  npm install kill-port
+ 3827  ls
+ 3828  sudo npm kill-port --port 80
+ 3829  npm install --global kill-port
+ 3830  sudo npm install --global kill-port
+ 3831  sudo npm kill-port --port 80
+ 3832  kill-port --port 80
+ 3833  sudo lsof -i -P -n | grep LISTEN
+ 3834  sudo npm kill-port --port 80
+ 3835  code .
+ 3836  composer update
+ 3837  composer require evilfreelancer/routeros-api-php
+ 3838  ls
+ 3839  composer require evilfreelancer/routeros-api-php
+ 3840  php spark serve
+ 3841  poweroff
+ 3842  sudo poweroff
+ 3843  sudo service apache2 start
+ 3844  sudo su
+ 3845  code .
+ 3846  php spark serve
+ 3847  php spark ros
+ 3848  php spark make:controller Ros
+ 3849  ping 10.70.117.190
+ 3850  ping 10.70.117.189
+ 3851  clear
+ 3852  cd ..
+ 3853  ls
+ 3854  cd api
+ 3855  php spark serve
+ 3856  code .
+ 3857  php spark serve
+ 3858  ping 192.168.1.10
+ 3859  ping 10.70.110.20
+ 3860  traceroute 10.70.110.13
+ 3861  sudo systemctl enable apache2@
+ 3862  sudo systemctl enable apache2
+ 3863  sudo systemctl start apache2.service
+ 3864  git status
+ 3865  cd api
+ 3866  git status
+ 3867  pwd
+ 3868  l
+ 3869  exit
+ 3870  ls
+ 3871  git add .
+ 3872  git status
+ 3873  git commit -m 'create new admin themes'
+ 3874  git push -u
+ 3875  ping 8.8.8.8
+ 3876  php spark serve
+ 3877  cd api
+ 3878  php spark composer.
+ 3879  php spark serve
+ 3880  cd frontend
+ 3881  vue serve
+ 3882  sudo su
+ 3883  vue serve
+ 3884  php spark serve
+ 3885  sudo service apache2 start
+ 3886  php spark mariadb start
+ 3887  sudo service mariadb start
+ 3888  sudo service mysql start
+ 3889  php spark migrate:status
+ 3890  cd api
+ 3891  php spark migrate:status
+ 3892  php spark make:migration MikrotikSetup
+ 3893  php spark migrate:status
+ 3894  php spark migrate
+ 3895  php spark migrate:refresh
+ 3896  ping 192.168.122.200
+ 3897  vue serve
+ 3898  cd coreui
+ 3899  ls
+ 3900  clear
+ 3901  ls
+ 3902  clear
+ 3903  vue serve
+ 3904  ls
+ 3905  cd ..
+ 3906  rm -rf coreui
+ 3907  ls
+ 3908  clear
+ 3909  cd frontend
+ 3910  ls
+ 3911  vue serve
+ 3912  yarn serve
+ 3913  vue-cli-service
+ 3914  vue serve
+ 3915  npm run serve
+ 3916  vue-cli-service serve
+ 3917  vue
+ 3918  ls
+ 3919  cd ..
+ 3920  ls
+ 3921  cd argon
+ 3922  npm install
+ 3923  vue serve
+ 3924  whois 47.241.245.190
+ 3925  git add .
+ 3926  git commit -m 'add new template'
+ 3927  git status
+ 3928  git add .
+ 3929  cd ..
+ 3930  git add .
+ 3931  git commit -m
+ 3932  git commit -m 'add new template'
+ 3933  git status
+ 3934  git push -u
+ 3935  ping 8.8.8.8
+ 3936  php spark make:controller Vlan
+ 3937  cd api
+ 3938  php spark make:controller Vlan
+ 3939  php spark serve
+ 3940  ping 8.8.8.8
+ 3941  traceroute 8.8.8.8
+ 3942  ifconfig
+ 3943  clear
+ 3944  ifconfig
+ 3945  telnet 192.168.39.2
+ 3946  telnet 192.168.39.6
+ 3947  php spark serev
+ 3948  php spark serve
+ 3949  ping 8.8.8.8
+ 3950  ping fredikstefan.skom.id
+ 3951  ping kopiflores.my.id
+ 3952  clear
+ 3953  dig kopiflores.my.id
+ 3954  git fetch
+ 3955  git log
+ 3956  git pull
+ 3957  git status
+ 3958  cd api
+ 3959  php spark serve
+ 3960  cd frontend
+ 3961  vue serve
+ 3962  git add .
+ 3963  git commit -m 'update vlan'
+ 3964  git push
+ 3965  cd api
+ 3966  php spark serve
+ 3967  cd frontend
+ 3968  vue serve
+ 3969  code .
+ 3970  ping 10.70.71.52
+ 3971  cd api
+ 3972  php spark serve
+ 3973  cd frontend
+ 3974  vue serve
+ 3975  ping 8.8.8.8.
+ 3976  git status
+ 3977  git add .
+ 3978  git commit -m 'fix olt render script'
+ 3979  git push
+ 3980  clear
+ 3981  ping 8.8.8.8
+ 3982  git clone https://github.com/stefanfredik/spk-blt.git
+ 3983  cls
+ 3984  ls
+ 3985  cd spk-blt
+ 3986  l
+ 3987  code .
+ 3988  php spark 
+ 3989  php spark db:create db_fania
+ 3990  php spark migrate
+ 3991  ls
+ 3992  php spark db:seed User
+ 3993  php spark db:seed UserSeeder
+ 3994  php spark serve
+ 3995  whois 103.10.124.85
+ 3996  ipconfig
+ 3997  ifconfig
+ 3998  git fetch
+ 3999  ls
+ 4000  git fetch
+ 4001  ls
+ 4002  l
+ 4003  git add .
+ 4004  git config --global --add safe.directory '/media/homenet/Data/Mini Project/mine/spk-blt'
+ 4005  git fetch
+ 4006  git pull
+ 4007  php spark serve
+ 4008  ifconfig
+ 4009  clear
+ 4010  php spark serve
+ 4011  clear
+ 4012  php spark serve
+ 4013  htop
+ 4014  php spark serve
+ 4015  npx kill-port
+ 4016  npx kill-port 8080
+ 4017  npx kill-port 8081
+ 4018  php spark serve
+ 4019  git status
+ 4020  git add .
+ 4021  git commit -m 'update sidebar'
+ 4022  git push
+ 4023  docker
+ 4024  ping 10.70.110.19
+ 4025  traceroute 10.70.110.19
+ 4026  ping 8.8.8.8
+ 4027  ping 8.8.8.8.8
+ 4028  A
+ 4029  ping 8.8.8.8.8
+ 4030  ping 8.8.8.8
+ 4031  php spark serve
+ 4032  cd /media/homenet/Data/Testing/
+ 4033  ls
+ 4034  node ScriptOnu.js
+ 4035  git status
+ 4036  cd mytextnotes/
+ 4037  git status
+ 4038  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+ 4039  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor
+ 4040  echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 4041  apt update
+ 4042  sudo apt update
+ 4043  git status
+ 4044  sudo apt update
+ 4045  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 4046  sudo apt-get install \\n    ca-certificates \\n    curl \\n    gnupg \\n    lsb-release
+ 4047  sudo apt autoremove
+ 4048  sudo apt-get install \\n    ca-certificates \\n    curl \\n    gnupg \\n    lsb-release
+ 4049  echo \\n  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \\n  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 4050  apt update
+ 4051  sudo apt update
+ 4052  sudo mkdir -p /etc/apt/keyrings\ncurl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 4053  sudo apt update
+ 4054  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+ 4055  whois 103.16.137.21
+ 4056  whois 31.13.95.61
+ 4057  whois 143.92.75.65
+ 4058  whois 31.13.95.61 
+ 4059  sudo docker run hello-word
+ 4060  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+ 4061  sudo docker run hello-word
+ 4062  docker run gns3/openvswitch:latest 
+ 4063  docker run 1b9a39e25bcf
+ 4064  docker --version
+ 4065  docker run 1b9a39e25bcf
+ 4066  sudo docker run 1b9a39e25bcf
+ 4067  ping 8.8.8.8
+ 4068  systemctl status docker.s
+ 4069  systemctl status docker.service
+ 4070  docker run hello-word
+ 4071  docker images
+ 4072  docker pull mongo
+ 4073  ls
+ 4074  sudo dpkg -i doc
+ 4075  sudo dpkg -i docker-desktop-4.14.1-amd64.deb
+ 4076  sudo apt autoinstall
+ 4077  sudo apt install pass
+ 4078  sudo apt--fix-broken install
+ 4079  sudo apt --fix-broken install
+ 4080  docker run
+ 4081  docker run mong
+ 4082  docker run mongo
+ 4083  docker run ?
+ 4084  docker run hello-word
+ 4085  dockerd
+ 4086  sudo dockerd
+ 4087  systemctl status docker.service
+ 4088  sudo service docker restart
+ 4089  sudo service docker status
+ 4090  clear
+ 4091  gpg --generate-key
+ 4092  pass init 573745E8DA2E86256484FB98A2943A76234F9E29
+ 4093  docker run
+ 4094  docker pull mongo
+ 4095  ls
+ 4096  docker images mongo
+ 4097  sudo ./studio-3t-linux-x64.sh
+ 4098  docker
+ 4099  docker images list
+ 4100  docker --help
+ 4101  docker info
+ 4102  docker --lis
+ 4103  docker --list
+ 4104  ping 10.70.64.136
+ 4105  git clone git@github.com:stefanfredik/spk-beasiswa.git
+ 4106  cd spk-beasiswa
+ 4107  ls
+ 4108  code .
+ 4109  composer install
+ 4110  git status
+ 4111  ls
+ 4112  git config --global --add safe.directory '/media/homenet/Data/Mini Project/mine/spk-beasiswa'
+ 4113  ls
+ 4114  git remote -v
+ 4115  git status
+ 4116  clear
+ 4117  git clone
+ 4118  dir
+ 4119  ls
+ 4120  clear
+ 4121  php spark db:create db_angel
+ 4122  ls
+ 4123  clear
+ 4124  php spark migrate --al
+ 4125  php spark migrate --all
+ 4126  php spark serve
+ 4127  php spark db:seed UserSeeder
+ 4128  php spark migrate
+ 4129  php spark migrate:rollback
+ 4130  php spark migrate
+ 4131  php spark db:seed UserSeeder
+ 4132  php spark migrate:rollback
+ 4133  php spark migrate
+ 4134  php spark db:seed UserSeeder
+ 4135  php spark serve
+ 4136  git add .
+ 4137  git status
+ 4138  git commit -m 'update sidebar and home view'
+ 4139  git status
+ 4140  git push
+ 4141  git status
+ 4142  git remote -v
+ 4143  git pull origin main
+ 4144  php spark migrate:status
+ 4145  php spark serve
+ 4146  composer install
+ 4147  php spark serve
+ 4148  ping https://customer.homenet.id/
+ 4149  ping customer.homenet.id
+ 4150  git status
+ 4151  git add .
+ 4152  git commit -m 'update menu laporan dan fix excel upload error'
+ 4153  git status
+ 4154  git push
+ 4155  git status
+ 4156  git clone https://github.com/stefanfredik/spk-pkh.git
+ 4157  ping 103.122.65.74
+ 4158  mtr 103.122.65.74
+ 4159  clear
+ 4160  mtr 103.122.65.74
+ 4161  ping 103.122.65.74
+ 4162  git clone git@github.com:stefanfredik/spk-beasiswa.git
+ 4163  code .
+ 4164  git status
+ 4165  git pull
+ 4166  git status
+ 4167  php spark serve
+ 4168  git status
+ 4169  git config --global --add safe.directory '/media/homenet/Data/Mini Project/mine/spk-pkh'
+ 4170  clear
+ 4171  git status
+ 4172  git pull
+ 4173  git status
+ 4174  code .
+ 4175  php spark  migrate:status
+ 4176  php spark  migrate:rollback
+ 4177  php spark  migrate:status
+ 4178  php spark  migrate:rollback
+ 4179  php spark  migrate:status
+ 4180  php spark  migrate
+ 4181  php spark  migrateA
+ 4182  php spark  migrate:status
+ 4183  php spark  migrate:rollback
+ 4184  php spark  migrate:status
+ 4185  php spark make:migration
+ 4186  php spark  migrate:status
+ 4187  php spark  migrate
+ 4188  php spark  migrate:rollback
+ 4189  php spark db:create db_angel
+ 4190  php spark  migrate
+ 4191  php spark db:seed UserSeeder
+ 4192  traceroute 8.8.8.8
+ 4193  ping steamcommunity.com/
+ 4194  ping steamcommunity.com
+ 4195  whois steamcommunity.com/
+ 4196  whois steamcommunity.com
+ 4197  php spark serve --port 8000
+ 4198  php spark migrate:refresh
+ 4199  php spark migrate:status
+ 4200  php spark migrate
+ 4201  php spark migrate:rollback
+ 4202  php spark migrate
+ 4203  php spark migrate:status
+ 4204  php spark migrate:rollback
+ 4205  php spark migrate
+ 4206  php spark migrate:status
+ 4207  php spark migrate
+ 4208  php spark migrate:rollback
+ 4209  php saprk db:create db_angel
+ 4210  php sapark db:create db_angel
+ 4211  php spark db:create db_angel
+ 4212  php spark migrate
+ 4213  php spark db:seed UserSeeder
+ 4214  php spark migrate:refresh
+ 4215  php spark db:seed UserSeeder
+ 4216  clear
+ 4217  git status
+ 4218  git add .
+ 4219  git commit -m 'rombak menu'
+ 4220  git status
+ 4221  git push
+ 4222  ping 8.8.8.8
+ 4223  ifconfig
+ 4224  ping 8.8.8.8
+ 4225  php spark serve
+ 4226  ping 10.70.111.47
+ 4227  git status
+ 4228  adb
+ 4229  whois 51.222.99.97
+ 4230  apache2ctl -M
+ 4231  apache2ctl --help
+ 4232  apache2ctl -h
+ 4233  apache2ctl -e
+ 4234  ls
+ 4235  cd /etc/
+ 4236  ls
+ 4237  cd apache2/ls
+ 4238  ls
+ 4239  cd apache2
+ 4240  ls
+ 4241  cat apache2.conf
+ 4242  ls
+ 4243  cd sites-enabled/
+ 4244  ls
+ 4245  cat ts.conf
+ 4246  ls
+ 4247  git status
+ 4248  git add .
+ 4249  git commit -m 'change notes extension from txt to md'
+ 4250  git push origin main
+ 4251  sudo apt update -y && sudo apt upgrade -y
+ 4252  php spark serve
+ 4253  cd api
+ 4254  php spark serve
+ 4255  ls
+ 4256  cd frontend
+ 4257  ls
+ 4258  vue serve
+ 4259  cd api
+ 4260  ls
+ 4261  composer install
+ 4262  composer update
+ 4263  php spark serve
+ 4264  composer update
+ 4265  composer install
+ 4266  composer update
+ 4267  php spark serve
+ 4268  composer update
+ 4269  composer fund
+ 4270  composer update
+ 4271  php spark serve
+ 4272  composer install
+ 4273  composer update
+ 4274  composer install
+ 4275  php spark serve
+ 4276  ls
+ 4277  php spark serve
+ 4278  ping 10.70.65.118
+ 4279  anydesk
+ 4280  sudo apt update -y && sudo apt upgrade -y
+ 4281  ls
+ 4282  clear
+ 4283  cd api
+ 4284  php spark serve
+ 4285  cd frontend
+ 4286  ls
+ 4287  vue serve
+ 4288  cd api
+ 4289  ls
+ 4290  php spark make:controller MikrotikSetupModel
+ 4291  php spark make:controller DataSetup --rest-full
+ 4292  php spark make:controller DataSetup --restfull
+ 4293  php spark make:controller --help
+ 4294  php spark make --help
+ 4295  php spark make:controller --help
+ 4296  php spark list
+ 4297  ping 8.8.8.8
+ 4298  ping https://presales.openaccess.net.id/
+ 4299  ping presales.openaccess.net.id
+ 4300  nmap presales.openaccess.net.id
+ 4301  php spark help make
+ 4302  php spark help controller
+ 4303  cd api
+ 4304  php spark help controller
+ 4305  php spark help make:controller
+ 4306  php spark make:controller --restful
+ 4307  php spark make:controller DataSetup --restful
+ 4308  php spark serve
+ 4309  ls
+ 4310  cd api
+ 4311  ls
+ 4312  cd ..
+ 4313  frontend
+ 4314  ls
+ 4315  vue serve
+ 4316  sudo apt remove thunderbird
+ 4317  sudo apt remove gnome-mines
+ 4318  ls
+ 4319  bash bash.sh
+ 4320  clear
+ 4321  bash bash.sh
+ 4322  clear
+ 4323  bash bash.sh
+ 4324  git add .
+ 4325  git status
+ 4326  git add Linux/Bash.md
+ 4327  git commit -m 'add new file : Bash '
+ 4328  git push
+ 4329  git status
+ 4330  traceroute 8.8.8.8
+ 4331  ping 8.8.8.8
+ 4332  traceroute 8.8.8.8
+ 4333  mtr 8.8.8.8
+ 4334  sudo apt-get install webhttrack
+ 4335  sudo apt install --fx
+ 4336  sudo apt install --fix
+ 4337  sudo apt install --fix-missing
+ 4338  sudo apt autoremove
+ 4339  sudo apt install --fix-missing
+ 4340  sudo apt-get install webhttrack
+ 4341  ping 8.8.8.8
+ 4342  mtr 8.8.8.8
+ 4343  ping 1.1.1.1
+ 4344  mtr 1.1.1.1
+ 4345  whois 103.122.65.162
+ 4346  git status
+ 4347  git add .
+ 4348  git commit -m 'revisi'
+ 4349  git push
+ 4350  traceroute 8.8.8.8
+ 4351  ping 8.8.8.8
+ 4352  whois 10.9.9.127
+ 4353  nma 10.9.9.127
+ 4354  nmap 10.9.9.127
+ 4355  ifconfig
+ 4356  nmap 10.9.9.127
+ 4357  ping google.com
+ 4358  code .
+ 4359  ls
+ 4360  npm init
+ 4361  npm init --y
+ 4362  npm install telnet-client
+ 4363  https://github.com/rupadana/migrate-nodes.git
+ 4364  git clone https://github.com/rupadana/migrate-nodes.git
+ 4365  cd migrate-nodes
+ 4366  npm install
+ 4367  npm index.js 200
+ 4368  node index.js 200
+ 4369  node index.js 201
+ 4370  node index.js 202
+ 4371  node index.js 203
+ 4372  node index.js 204
+ 4373  node index.js 205
+ 4374  node index.js 206
+ 4375  node index.js 207
+ 4376  node index.js 208
+ 4377  node index.js 209
+ 4378  node index.js 210
+ 4379  node index.js 211
+ 4380  node index.js 212
+ 4381  node index.js 213
+ 4382  git pull
+ 4383  git config --global --add safe.directory '/media/homenet/Data/Mini Project/rupa-migrasi/migrate-nodes'
+ 4384  ggit pull
+ 4385  git pull
+ 4386  node index.js 1
+ 4387  node index.js 2
+ 4388  node index.js 3
+ 4389  node index.js 4
+ 4390  node index.js 5
+ 4391  node index.js 6
+ 4392  node index.js 7
+ 4393  node index.js 8
+ 4394  node index.js 9
+ 4395  node index.js 10
+ 4396  node index.js 11
+ 4397  node index.js 12
+ 4398  node index.js 13
+ 4399  node index.js 14
+ 4400  node index.js 15
+ 4401  node index.js 16
+ 4402  node index.js 17
+ 4403  node index.js 18
+ 4404  node index.js 20
+ 4405  node index.js 21
+ 4406  node index.js 22
+ 4407  node index.js 23
+ 4408  node index.js 4
+ 4409  node index.js 24
+ 4410  node index.js 25
+ 4411  node index.js 26
+ 4412  node index.js 27
+ 4413  node index.js 28
+ 4414  node index.js 29
+ 4415  node index.js 30
+ 4416  node index.js 31
+ 4417  node index.js 32
+ 4418  node index.js 33
+ 4419  node index.js 50
+ 4420  node index.js 51
+ 4421  node index.js 52
+ 4422  node index.js 53
+ 4423  node index.js 54
+ 4424  node index.js 55
+ 4425  node index.js 56
+ 4426  node index.js 57
+ 4427  node index.js 58
+ 4428  node check.js 1
+ 4429  node check.js 2
+ 4430  node check.js 1
+ 4431  node check.js 0
+ 4432  ping 10.70.108.185
+ 4433  ping 10.70.108.87
+ 4434  ping 10.70.108.185
+ 4435  whois 185.199.100.17
+ 4436  ping 10.70.108.195
+ 4437  ping 10.70.116.131
+ 4438  traceroute 10.70.116.131
+ 4439  ping 10.70.116.131
+ 4440  ping 10.70.116.130
+ 4441  ping 10.70.116.131
+ 4442  ping 10.70.116.132
+ 4443  ping 10.70.98.39
+ 4444  ping 10.70.98.194
+ 4445  ping 10.70.98.39
+ 4446  ping 8.8.8.8
+ 4447  10.70.94.116
+ 4448  traceroute 10.70.94.116
+ 4449  npm kill-port 8080
+ 4450  npx kill-port 8080
+ 4451  cd api
+ 4452  php spark serve
+ 4453  cd fro
+ 4454  cd ..
+ 4455  ls
+ 4456  cd frontend
+ 4457  code .
+ 4458  cd frontend
+ 4459  vue serve
+ 4460  ping 10.70.116.22
+ 4461  php spark serve
+ 4462  npx kill-port 80
+ 4463  cd api
+ 4464  php spark serve
+ 4465  cd ..
+ 4466  c frontend
+ 4467  cd frontend
+ 4468  vue serve
+ 4469  code ,
+ 4470  code .
+ 4471  php spark serve
+ 4472  npm run build d
+ 4473  npm run build
+ 4474  sudo nautilus
+ 4475  sudo nautilus .
+ 4476  npx kill-port 80
+ 4477  code .
+ 4478  ping 10.70.107.143
+ 4479  npx kill-port 80
+ 4480  ping 10.70.71.229
+ 4481  mtr 10.70.71.229
+ 4482  ping 10.70.64.47
+ 4483  ping 10.70.64.55
+ 4484  mtr 10.70.64.55
+ 4485  ping 10.70.64.55
+ 4486  ping 10.70.64.13
+ 4487  ping 10.70.64.2
+ 4488  traceroute 10.70.98.39
+ 4489  traceroute 10.70.94.176
+ 4490  clear
+ 4491  ping 103.122.65.67
+ 4492  ping 10.70.64.231
+ 4493  traceroute 192.168.39.2
+ 4494  ping 5315024404640001\n
+ 4495  ping 10.70.64.251
+ 4496  ping 10.70.64.227
+ 4497  ping 10.70.64.251
+ 4498  ping 10.70.64.227
+ 4499  ping 10.70.98.9
+ 4500  traceroute 10.70.98.9
+ 4501  traceroute 10.70.98.13
+ 4502  traceroute 10.70.98.2
+ 4503  php spark serve
+ 4504  ping 10.70.64.251
+ 4505  ping 10.70.64.226
+ 4506  ping 8.8.8.8
+ 4507  ping 103.122.65.67
+ 4508  ping amazon.com
+ 4509  ping 10.0.0.1
+ 4510  whois 10.0.0.1
+ 4511  ping 10.70.121.95
+ 4512  ping 10.70.98.21
+ 4513  traceroute 10.70.98.21
+ 4514  ping 10.70.98.2
+ 4515  traceroute 10.70.98.2
+ 4516  ping 10.70.64.242
+ 4517  traceroute 10.70.64.242
+ 4518  php spark serve
+ 4519  ping 8.8.8.8
+ 4520  traceroute 192.168.39.2
+ 4521  ping 8.8.8.8
+ 4522  whois https://web-efaktur.pajak.go.id/
+ 4523  whois web-efaktur.pajak.go.id
+ 4524  whois pajak.go.id
+ 4525  traceroute 8.8.8.8
+ 4526  ping 8.8.8.8.
+ 4527  traceroute 8.8.8.8
+ 4528  ls
+ 4529  composer create-project codeigniter4/appstarter api
+ 4530  pwd
+ 4531  ls
+ 4532  app.baseURL = 'http://localhost/api/'\n# app.forceGlobalSecureRequests = false\n\n# app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'\n# app.sessionCookieName = 'ci_session'\n# app.sessionSavePath = NULL\n# app.sessionMatchIP = false\n# app.sessionTimeToUpdate = 300\n# app.sessionRegenerateDestroy = false\n\n# app.cookiePrefix = ''\n# app.cookieDomain = ''\n# app.cookiePath = '/'\n# app.cookieSecure = false\n# app.cookieHTTPOnly = false\n# app.cookieSameSite = 'Lax'\n\n# app.CSRFProtection  = false\n# app.CSRFTokenName   = 'csrf_test_name'\n# app.CSRFCookieName  = 'csrf_cookie_name'\n# app.CSRFExpire      = 7200\n# app.CSRFRegenerate  = true\n# app.CSRFExcludeURIs = []\n# app.CSRFSameSite    = 'Lax'\n\n# app.CSPEnabled = false\n\n#--------------------------------------------------------------------\n# DATABASE\n#--------------------------------------------------------------------\n\ndatabase.default.hostname = localhost\ndatabase.default.database = db_tsapp\ndatabase.default.username = phpmyadmin\ndatabase.default.password = 1718\ndatabase.default.DBDriver = MySQLi;
+ 4533  ls
+ 4534  composer create-project codeigniter4/appstarter api
+ 4535  cd api
+ 4536  php spark serve
+ 4537  code .
+ 4538  git clone https://github.com/rupadana/vm-clone-automation.git
+ 4539  ls
+ 4540  cd vm-clone-automation
+ 4541  ls
+ 4542  l
+ 4543  python3.10 setup.py install
+ 4544  ls
+ 4545  pip3 install
+ 4546  pip install
+ 4547  l
+ 4548  python3 setup.py install
+ 4549  git pull
+ 4550  ^V
+ 4551  git config --global --add safe.directory '/media/homenet/Data/Mini Project/vm-clone-automation'
+ 4552  git pull
+ 4553  python3 setup.py install
+ 4554  pip3 install easy_intall
+ 4555  pip3 install easy_install
+ 4556  pip3 install -r requirements.txt
+ 4557  sudi pip3 install -r requirements.txt
+ 4558  sudo pip3 install -r requirements.txt
+ 4559  pip3 install '^[[200~setuptools==58.0.0~'
+ 4560  pip3 install 'setuptools==58.0.0'
+ 4561  python3 setup.py install
+ 4562  pip3 install 'setuptools=5.5.0_2014.dev'
+ 4563  pip3 install 'setuptools==5.5.0_2014.dev'
+ 4564  sudo python3 setup.py install
+ 4565  python3 vsphere.py --name HomeNet-Test-2 --address 10.70.96.4 --qinq 405 --cvlan 3002
+ 4566  pip3 install -r requirements.txt
+ 4567  python3 vsphere.py --name HomeNet-Test-2 --address 10.70.96.4 --qinq 405 --cvlan 3002
+ 4568  python3 vsphere.py --name 'Coba Clone' --address 10.70.96.10 --qinq 404 --cvlan 3003
+ 4569  python3 vsphere.py --name 'Homenet-Coba' --address 10.70.96.15 --qinq 405 --cvlan 3500
+ 4570  python3 vsphere.py --name 'Homenet-Coba' --address 10.70.96.100 --qinq 405 --cvlan 3600
+ 4571  php spark serve
+ 4572  cd api
+ 4573  php spark serve
+ 4574  ping 8.8.8.8
+ 4575  sudo su
+ 4576  code .
+ 4577  mongo
+ 4578  ls
+ 4579  git init
+ 4580  git add .
+ 4581  git config --global --add safe.directory '/media/homenet/Data/Mini Project/final'
+ 4582  git pull
+ 4583  code .
+ 4584  git add .
+ 4585  git config --global --add safe.directory '/media/homenet/Data/Mini Project/rupad/final'
+ 4586  git pull
+ 4587  python3 vsphere.py --name HomeNet-Test-2 --address 10.70.117.253 --qinq 403 --cvlan 3500\n
+ 4588  python3 setup.py --help
+ 4589  python3 vsphere.py --help
+ 4590  python3 vsphere.py --address 10.70.117.232 --qinq 403 --cvlan 2325 
+ 4591  python3 vsphere.py --name "I Dewa Nyoman Oka Budayadnya - Homenet-1528" --address 10.70.117.232 --qinq 403 --cvlan 2325 
+ 4592  php spark serve
+ 4593  cd api
+ 4594  php spark serve
+ 4595  php spark make:controller Ros --restfull
+ 4596  php spark make:controller Ros -restfull
+ 4597  php spark make:controller Ros -restful
+ 4598  ping 10.70.64.34
+ 4599  traceroute 10.70.64.34
+ 4600  ping 10.70.64.226
+ 4601  whois 103.122.67.77
+ 4602  php spark serve
+ 4603  php spark make:controller Ros
+ 4604  clear
+ 4605  ping 8.8.8.8
+ 4606  traceroute 8.8.8.8
+ 4607  ssh 10.70.90.86
+ 4608  telnet 10.70.90.86
+ 4609  telnet Administrator@10.70.90.86
+ 4610  nmap 10.70.90.86
+ 4611  telnet Administrator@10.70.90.86
+ 4612  telnet root@10.70.90.86
+ 4613  ssh root@2a01:4f8:211:25cf::22bd:1
+ 4614  ssh Administrator@10.70.90.86
+ 4615  ssh-keygen -f "/home/homenet/.ssh/known_hosts" -R "10.70.90.86"
+ 4616  ssh Administrator@10.70.90.86
+ 4617  ssh Administrator@10.70.90.86 -p
+ 4618  ssh Administrator@10.70.90.86 -p '\n;\n'
+ 4619  ssh root@10.70.90.86\n;\n'
+ 4620  ssh root@10.70.90.86
+ 4621  ssh root@10.70.90.86 -p 23
+ 4622  nmap 10.70.90.86
+ 4623  ssh root@10.70.90.86 -p 554
+ 4624  ssh root@10.70.90.86 -p 514
+ 4625  ping 10.70.89.162
+ 4626  ping 10.70.89.163
+ 4627  ping 10.70.89.169
+ 4628  ping 10.70.89.171
+ 4629  ping 10.70.86.11
+ 4630  ping 10.70.108.185
+ 4631  ping 8.8.8.8
+ 4632  traceroute 8.8.8.8
+ 4633  ifconfig
+ 4634  ping p16-sign-va.tiktokcdn.com
+ 4635  23.59.80.1
+ 4636  ping 23.59.80.1
+ 4637  ping 23.59.80.129
+ 4638  ping p16-sign-va.tiktokcdn.com
+ 4639  whois 184.27.123.202
+ 4640  ping 7993
+ 4641  ping 23.50.117.136
+ 4642  dig p16-sign-va.tiktokcdn.com
+ 4643  ping p16-sign-va.tiktokcdn.com
+ 4644  dig p16-sign-va.tiktokcdn.com
+ 4645  ping p16-sign-va.tiktokcdn.com
+ 4646  ping 184.87.193.81
+ 4647  ping p16-sign-va.tiktokcdn.com
+ 4648  dig 103.122.65.37
+ 4649  dig p16-sign-va.tiktokcdn.com
+ 4650  ping 103.122.65.37
+ 4651  ping 184.27.123.193\n
+ 4652  traceroute 184.27.123.193
+ 4653  ping 184.27.123.168
+ 4654  ping 184.27.123.201
+ 4655  ping 184.27.123.232
+ 4656  ping 184.27.123.234
+ 4657  traceroute 184.27.123.234
+ 4658  ping 184.27.123.234
+ 4659  traceroute 184.27.123.234
+ 4660  ping https://p16-sign-va.tiktokcdn.com/
+ 4661  ping p16-sign-va.tiktokcdn.com
+ 4662  whois p16-sign-va.tiktokcdn.com
+ 4663  dig https://p16-sign-va.tiktokcdn.com/
+ 4664  dig p16-sign-va.tiktokcdn.com
+ 4665  ping 23.59.80.155\n
+ 4666  ping 184.27.123.234
+ 4667  ping 23.59.80.155\n
+ 4668  dig p16-sign-va.tiktokcdn.com
+ 4669  ping p16-sign-va.tiktokcdn.com/
+ 4670  ping p16-sign-va.tiktokcdn.com
+ 4671  htop
+ 4672  sudo su
+ 4673  htop
+ 4674  whois 35.162.13.26
+ 4675  sudo su
+ 4676  whois 10.70.93.76
+ 4677  ping 10.70.93.76
+ 4678  ping https://filter2.jinom.net/
+ 4679  ping filter2.jinom.net
+ 4680  whois 103.122.67.77
+ 4681  dig 103.122.67.77
+ 4682  time dig 103.122.67.77
+ 4683  sudo gedit /etc/resolv.conf
+ 4684  ping http://10.70.110.250/
+ 4685  git clone git@github.com:stefanfredik/si-pkh.git
+ 4686  ls
+ 4687  cd si-pkh
+ 4688  ls
+ 4689  clear
+ 4690  git status
+ 4691  php spark db:create db_liani
+ 4692  php spark migrate
+ 4693  php spark db:seed UserSeeder
+ 4694  php spark serve
+ 4695  ls
+ 4696  cd si-pkh
+ 4697  composer install
+ 4698  ping 8.8.8.8
+ 4699  php spark serve 
+ 4700  cd api
+ 4701  php spark serve
+ 4702  cd api
+ 4703  php spark make:config Ros
+ 4704  unrar
+ 4705  apt install unrar
+ 4706  sudo apt install unrar
+ 4707  ls
+ 4708  unrar mikrotik-routeros-6.32.2-vbox.rar
+ 4709  unrar x mikrotik-routeros-6.32.2-vbox.rar
+ 4710  ping 192.168.50.100
+ 4711  composer update
+ 4712  ping 8.8.8.8
+ 4713  dig baf.id
+ 4714  sudo apt install heroku
+ 4715  snap install heroku
+ 4716  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+ 4717  heroku
+ 4718  heroku login
+ 4719  ls
+ 4720  cd /media/homenet/Data/Mini\ Project/
+ 4721  ls
+ 4722  mkdir heroku
+ 4723  cd heroku
+ 4724  ls
+ 4725  git init
+ 4726  git add .
+ 4727  git config --global --add safe.directory '/media/homenet/Data/Mini Project/heroku'\n
+ 4728  git status
+ 4729  heroku git:remote -a kopi-hitam
+ 4730  ls
+ 4731  touch index.php
+ 4732  nano index.php
+ 4733  git add .
+ 4734  git commit -m 'first commit'
+ 4735  git push kopi-hitam master
+ 4736  git remote -v
+ 4737  git push heroku master
+ 4738  ls
+ 4739  composer install
+ 4740  composer init
+ 4741  git add .
+ 4742  git commit -m 'first commit'
+ 4743  git push heroku master
+ 4744  ls
+ 4745  python3 vsphere.py --name HomeNet-Test-2 --address 10.70.117.253 --qinq 403 --cvlan 3500
+ 4746  python3 setup.py --name HomeNet-Test-2 --address 10.70.117.253 --qinq 403 --cvlan 3500
+ 4747  python3.10 setup.py --name HomeNet-Test-2 --address 10.70.117.253 --qinq 403 --cvlan 3500
+ 4748  ping 8.8.8.8
+ 4749  ls
+ 4750  apt update
+ 4751  sudo su
+ 4752  ping 10.70.110.32
+ 4753  nmcli 
+ 4754  ip route
+ 4755  ifmetric
+ 4756  sudo apt install ifmetric
+ 4757  ip route
+ 4758  ifmetric ppp0 10
+ 4759  sudo ifmetric ppp0 10
+ 4760  ip route
+ 4761  ping ppp0
+ 4762  ping 10.70.110.32
+ 4763  ip route
+ 4764  sudo ip route replace \nCurrent IP:            10.70.110.32
+ 4765  sudo ip route replace103.122.65.97 via 192.168.50.1 dev wlo1 proto static metric 50  10.70.110.32
+ 4766  sudo ip route replace103.122.65.97 via 192.168.50.1 dev wlo1 proto static metric 15
+ 4767  sudo ip route replace 103.122.65.97 via 192.168.50.1 dev wlo1 proto static metric 15
+ 4768  ip route
+ 4769  traceroute 103.122.65.97 via 192.168.50.1 dev wlo1 proto static metric 50 
+ 4770  ping 10.70.110.32
+ 4771  traceroute http://10.70.110.32/
+ 4772  traceroute 10.70.110.32
+ 4773  ip route pri
+ 4774  ip route default
+ 4775  ip route defaul
+ 4776  ip route prin
+ 4777  ip route print
+ 4778  ip route
+ 4779  ip route replace 192.168.50.1 dev wlo1 proto dhcp metric 600 
+ 4780  sudo ip route replace 192.168.50.1 dev wlo1 proto dhcp metric 300
+ 4781  ip route
+ 4782  sudo ip route flush table main
+ 4783  ip route
+ 4784  ping 8.8.8.8
+ 4785  ip route
+ 4786  ip route show
+ 4787  ping 172-31-89-185
+ 4788  ping 172.31.89.185
+ 4789  ping 3.82.108.103
+ 4790  ls
+ 4791  python baru.py --name Homenet-1549 --address 10.70.117.253 --qinq 403 --cvlan 2346 --cname "Gusti Ngurah Made Diana" 
+ 4792  python3 baru.py --name Homenet-1549 --address 10.70.117.253 --qinq 403 --cvlan 2346 --cname "Gusti Ngurah Made Diana" 
+ 4793  python3 baru.py --name Homenet-1550 --address 10.70.117.254 --qinq 403 --cvlan 2347 --cname "I Putu Oktawan Diputra" 
+ 4794  ping 10.70.118.2
+ 4795  ping 10.70.96.100
+ 4796  ping V
+ 4797  ping 10.70.96.103
+ 4798  git status
+ 4799  git pull origin main
+ 4800  code .
+ 4801  dig kopiflores.my.id
+ 4802  ping kopiflores.my.id
+ 4803  ping 10.70.98.8
+ 4804  traceroute 10.70.98.8
+ 4805  ping 8.8.8.8
+ 4806  ping 192.168.1.12
+ 4807  ping 192.168.1.2
+ 4808  ping 192.168.0.1
+ 4809  whois https://gas-monkey-garage-giveaway.sitey.me/
+ 4810  whois gas-monkey-garage-giveaway.sitey.me
+ 4811  dig kopiflores.my.id
+ 4812  dig  gas-monkey-garage-giveaway.sitey.me
+ 4813  whois gas-monkey-garage-giveaway.sitey.me
+ 4814  ping 8.8.8.8
+ 4815  sudo add-apt-repository ppa:gns3/ppa\nsudo apt update                                \nsudo apt install gns3-gui gns3-server
+ 4816  ping 10.0.0.100
+ 4817  ping 10.0.0.1
+ 4818  sudo apt install gitbook
+ 4819  sudo apt install git-book
+ 4820  git status
+ 4821  ls
+ 4822  cd mytextnotes
+ 4823  git status
+ 4824  git add .
+ 4825  git commit -m 'add networking notes'
+ 4826  git push
+ 4827  git stats
+ 4828  git status
+ 4829  git pull
+ 4830  git status
+ 4831  git log
+ 4832  git pull
+ 4833  git status
+ 4834  git add .
+ 4835  git commit -m 'update notes''\n'
+ 4836  git push
+ 4837  git add .
+ 4838  git commit -m 'update notes''\n'
+ 4839  git push
+ 4840  git pull
+ 4841  git status
+ 4842  git add .
+ 4843  git commit -m 'update notes''\n'
+ 4844  git push
+ 4845  git status
+ 4846  git push
+ 4847  git pull
+ 4848  git config pull.rebase false
+ 4849  git pull
+ 4850  git push
+ 4851  git pull
+ 4852  git status
+ 4853  git pull
+ 4854  git status
+ 4855  git rm SUMMARY.md
+ 4856  git status
+ 4857  git pull
+ 4858  git status
+ 4859  git commit -m 'update'
+ 4860  git status
+ 4861  git log
+ 4862  git push
+ 4863  git status
+ 4864  git log
+ 4865  ping 8.8.8.8
+ 4866  ping 192.168.1.1
+ 4867  ping 192.168.1.1.1
+ 4868  ping 192.168.1.1
+ 4869  mtr 192.168.1.1
+ 4870  ping 192.168.1.1
+ 4871  ping 10.70.64.249
+ 4872  ping 10.70.64.196
+ 4873  nmap 10.70.64.196
+ 4874  mtr 8.8.8.8
+ 4875  whois
+ 4876  whois 31.13.95.61
+ 4877  whois  31.13.95.8
+ 4878  whois 129.227.40.226
+ 4879  ping 8.8.8.8
+ 4880  ping  103.122.65.37
+ 4881  ping 8.8.8.8
+ 4882  traceroute 8.8.8.8
+ 4883  ping 8.8.8.8
+ 4884  ifconfig
+ 4885  ping 8.8.8.8
+ 4886  ifconfig
+ 4887  code Midda\ Setting\ in\ Invoice.md
+ 4888  npx kill-port 8080
+ 4889  npx kill-port 80
+ 4890  sudo iptables
+ 4891  sudo iptables -V
+ 4892  sudo iptables -L 0v
+ 4893  nft
+ 4894  sudo iptables -L -v
+ 4895  htop
+ 4896  code .
+ 4897  ping 8.8.8.8
+ 4898  clear
+ 4899  ping 8.8.8.8
+ 4900  clear
+ 4901  ls
+ 4902  cd Downloads
+ 4903  ls
+ 4904  ping http://100.25.36.174/
+ 4905  ping 100.25.36.174
+ 4906  ping 8.8.8.8
+ 4907  npm uninstall -h
+ 4908  npm uninstall
+ 4909  npm rem
+ 4910  npm r
+ 4911  npm un
+ 4912  clear
+ 4913  npm rem
+ 4914  npm uninstall
+ 4915  npm insntall
+ 4916  git remote add origin git@github.com:stefanfredik/dicoding-course.git\ngit branch -M main\ngit push -u origin main
+ 4917  ls
+ 4918  clear
+ 4919  echo "# dicoding-course" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:stefanfredik/dicoding-course.git\ngit push -u origin main
+ 4920  ls
+ 4921  strace
+ 4922  strace code
+ 4923  apache2 -v
+ 4924  neotoppm
+ 4925  sudo apt install neofetch
+ 4926  clear
+ 4927  dir
+ 4928  neotoppm
+ 4929  neofetch
+ 4930  neofetch -h
+ 4931  neofetch --help
+ 4932  id
+ 4933  whois 31.13.95.61
+ 4934  whoami
+ 4935  id homenet
+ 4936  ping 8.8.8.8
+ 4937  ping google.com
+ 4938  cat /etc/passwd
+ 4939  df -h
+ 4940  losetup
+ 4941  losetup -h
+ 4942  losetup -l
+ 4943  file *
+ 4944  ls
+ 4945  fil Downloads
+ 4946  file Downloads
+ 4947  file data3.csv
+ 4948  stat data3.csv
+ 4949  sudo apt-get install dconf-cli
+ 4950  git clone https://github.com/dracula/gnome-terminal\ncd gnome-terminal
+ 4951  ./install.sh
+ 4952  ls
+ 4953  clear
+ 4954  dir
+ 4955  ls
+ 4956  clear
+ 4957  ls
+ 4958  clear
+ 4959  dir
+ 4960  ls -l
+ 4961  cd ..
+ 4962  ls
+ 4963  set
+ 4964  echo $terminfo
+ 4965  0R65;1;9c
+ 4966  set
+ 4967  echo $widget
+ 4968  echo $history
+ 4969  history
+ 4970  clear
+ 4971  echo $history
+ 4972  printenv
+ 4973  export coba
+ 4974  printenv
+ 4975  printenv | grep coba
+ 4976  export $coba
+ 4977  $coba="Hello Word"
+ 4978  coba="Hello Word"
+ 4979  export $coba
+ 4980  printenv | grep coba
+ 4981  printenv
+ 4982  bash
+ 4983  a=100
+ 4984  b=200
+ 4985  c=$((a+b))
+ 4986  echo c
+ 4987  echo $c
+ 4988  history
+ 4989  ping 8.8.8.8
+ 4990  ping 10.70.66.194
+ 4991  ping 8.8.8.8
+ 4992  ping idh.id
+ 4993  whois idh.id
+ 4994  ls
+ 4995  history
+ 4996  print
+ 4997  ls
+ 4998  cd Documents
+ 4999  ls
+ 5000  touch test.txt
+ 5001  echo "Hello Word" >> test.txt
+ 5002  cat test.
+ 5003  cat test.txt
+ 5004  echo "mantap" > test.txt
+ 5005  cat test.txt
+ 5006  echo "Hello Word" >> test.txt
+ 5007  cat test.txt
+ 5008  wc -l test.txt
+ 5009  > test.txt
+ 5010  cat test.txt
+ 5011  >> test.txt
+ 5012  cat test.txt
+ 5013  clear
+ 5014  dir
+ 5015  cat baru.txt 2> error.txt
+ 5016  ls
+ 5017  cat error.txt
+ 5018  apt test > error.txt
+ 5019  cat error.txt
+ 5020  apt test ||  > error.txt
+ 5021  apt test |  > error.txt
+ 5022  apt test 2> error.txt
+ 5023  ls error.txt
+ 5024  apt test
+ 5025  apt test 2> error.txt
+ 5026  ls
+ 5027  clear
+ 5028  wc -l < ls.txt
+ 5029  clear
+ 5030  dir
+ 5031  date; ls
+ 5032  ping 10.70.64.62
+ 5033  traceroute 10.70.64.62
+ 5034  traceroute 10.70.64.4
+ 5035  ping 10.70.64.4
+ 5036  ping 10.70.64.62
+ 5037  ping 10.70.64.64
+ 5038  ping 10.70.64.60
+ 5039  ping 10.70.64.61
+ 5040  ping 10.70.64.62
+ 5041  ping 10.70.64.63
+ 5042  ping 10.70.64.64
+ 5043  ping 10.70.64.65
+ 5044  ping 10.70.64.66
+ 5045  ping 10.70.64.67
+ 5046  clar
+ 5047  clear
+ 5048  free -h
+ 5049  free
+ 5050  free -h
+ 5051  free --help
+ 5052  free --mega
+ 5053  free --mega -h
+ 5054  free --mega -hm
+ 5055  free --mega -l
+ 5056  free -m
+ 5057  df -h
+ 5058  ls
+ 5059  cd linux-system-administrator
+ 5060  ls
+ 5061  cd submission
+ 5062  ls
+ 5063  ./script-fredistefan.sh
+ 5064* df -h
+ 5065* df --help
+ 5066* du
+ 5067* df -h
+ 5068* du -h | sort -rn
+ 5069* df -h | sort -rn
+ 5070* df -h
+ 5071* clear
+ 5072* du -h /home/user/Desktop | grep '^\s*[0-9\.]\+G'
+ 5073* du -h  | grep '^\s*[0-9\.]\+G'
+ 5074* df -hT | awk '{print $1,$6}'
+ 5075* df -h
+ 5076* df -hT | awk '{print $1,$5}'
+ 5077* df -hT | awk '{print $1,$4}'
+ 5078* df -hT | awk '{print $1,$6}'
+ 5079* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5080* df
+ 5081* df -all
+ 5082* df -hT | awk '$2 != "tmpfs" {print $0, $6}'
+ 5083* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5084* df -hT | awk '$2 != "tmpfs" {print $2, $6}'
+ 5085* df -hT | awk '$2 != "tmpfs" {print $3, $6}'
+ 5086* df -hT | awk '$2 != "tmpfs" {print $4, $6}'
+ 5087* df -hT | awk '$2 != "tmpfs" {print $5, $6}'
+ 5088* df -hT | awk '$2 != "tmpfs" {print $6, $6}'
+ 5089* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5090* df
+ 5091* timeout
+ 5092* timeout 5 echo "helloword"
+ 5093  ./script-fredistefan.sh
+ 5094  delay
+ 5095* bash
+ 5096* sudo apt install delay
+ 5097  ./script-fredistefan.sh
+ 5098* ./script-fredistefan.s
+ 5099* delay --help
+ 5100* delay -h
+ 5101* delay 1
+ 5102* delay 1s
+ 5103* sleep 1
+ 5104* sleep 5
+ 5105  ./script-fredistefan.sh
+ 5106* history
+ 5107  ./script-fredistefan.sh
+ 5108* df --help
+ 5109  clear
+ 5110  ./script-fredistefan.sh
+ 5111* time
+ 5112* clock
+ 5113* current_time=$(date +"%T")\necho "Current time: $current_time"
+ 5114* date
+ 5115* ping 8.8.8.8
+ 5116  ./script-fredistefan.sh
+ 5117  clear
+ 5118  ls
+ 5119  clear
+ 5120  git add .
+ 5121  git statu
+ 5122  git status
+ 5123  git commit -m 'create dicoding submission'
+ 5124  git push origin main
+ 5125  git push
+ 5126  git remote -v
+ 5127  cd ..
+ 5128  ls
+ 5129  git add .
+ 5130  git status
+ 5131  git commit -m 'create dicoding submission'
+ 5132  git add .
+ 5133  git commit -m 'create dicoding submission'
+ 5134  ls
+ 5135  cd ..
+ 5136  ls
+ 5137  git add .
+ 5138  git commit -m 'create dicoding submission'
+ 5139  git push origin main
+ 5140  git remote -v
+ 5141  git remote add origin git@github.com:stefanfredik/dicoding-course.git
+ 5142  git push origin main
+ 5143  git remote add origin git@github.com:stefanfredik/dicoding-course.git\ngit branch -M main\ngit push -u origin main
+ 5144  git push
+ 5145  cd linux-system-administrator
+ 5146  ls
+ 5147  cd submission
