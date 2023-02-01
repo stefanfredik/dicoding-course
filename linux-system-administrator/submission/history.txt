@@ -5061,58 +5061,58 @@
  5061  cd submission
  5062  ls
  5063  ./script-fredistefan.sh
- 5064* df -h
- 5065* df --help
- 5066* du
- 5067* df -h
- 5068* du -h | sort -rn
- 5069* df -h | sort -rn
- 5070* df -h
- 5071* clear
- 5072* du -h /home/user/Desktop | grep '^\s*[0-9\.]\+G'
- 5073* du -h  | grep '^\s*[0-9\.]\+G'
- 5074* df -hT | awk '{print $1,$6}'
- 5075* df -h
- 5076* df -hT | awk '{print $1,$5}'
- 5077* df -hT | awk '{print $1,$4}'
- 5078* df -hT | awk '{print $1,$6}'
- 5079* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
- 5080* df
- 5081* df -all
- 5082* df -hT | awk '$2 != "tmpfs" {print $0, $6}'
- 5083* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
- 5084* df -hT | awk '$2 != "tmpfs" {print $2, $6}'
- 5085* df -hT | awk '$2 != "tmpfs" {print $3, $6}'
- 5086* df -hT | awk '$2 != "tmpfs" {print $4, $6}'
- 5087* df -hT | awk '$2 != "tmpfs" {print $5, $6}'
- 5088* df -hT | awk '$2 != "tmpfs" {print $6, $6}'
- 5089* df -hT | awk '$2 != "tmpfs" {print $1, $6}'
- 5090* df
- 5091* timeout
- 5092* timeout 5 echo "helloword"
+ 5064  df -h
+ 5065  df --help
+ 5066  du
+ 5067  df -h
+ 5068  du -h | sort -rn
+ 5069  df -h | sort -rn
+ 5070  df -h
+ 5071  clear
+ 5072  du -h /home/user/Desktop | grep '^\s*[0-9\.]\+G'
+ 5073  du -h  | grep '^\s*[0-9\.]\+G'
+ 5074  df -hT | awk '{print $1,$6}'
+ 5075  df -h
+ 5076  df -hT | awk '{print $1,$5}'
+ 5077  df -hT | awk '{print $1,$4}'
+ 5078  df -hT | awk '{print $1,$6}'
+ 5079  df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5080  df
+ 5081  df -all
+ 5082  df -hT | awk '$2 != "tmpfs" {print $0, $6}'
+ 5083  df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5084  df -hT | awk '$2 != "tmpfs" {print $2, $6}'
+ 5085  df -hT | awk '$2 != "tmpfs" {print $3, $6}'
+ 5086  df -hT | awk '$2 != "tmpfs" {print $4, $6}'
+ 5087  df -hT | awk '$2 != "tmpfs" {print $5, $6}'
+ 5088  df -hT | awk '$2 != "tmpfs" {print $6, $6}'
+ 5089  df -hT | awk '$2 != "tmpfs" {print $1, $6}'
+ 5090  df
+ 5091  timeout
+ 5092  timeout 5 echo "helloword"
  5093  ./script-fredistefan.sh
  5094  delay
- 5095* bash
- 5096* sudo apt install delay
+ 5095  bash
+ 5096  sudo apt install delay
  5097  ./script-fredistefan.sh
- 5098* ./script-fredistefan.s
- 5099* delay --help
- 5100* delay -h
- 5101* delay 1
- 5102* delay 1s
- 5103* sleep 1
- 5104* sleep 5
+ 5098  ./script-fredistefan.s
+ 5099  delay --help
+ 5100  delay -h
+ 5101  delay 1
+ 5102  delay 1s
+ 5103  sleep 1
+ 5104  sleep 5
  5105  ./script-fredistefan.sh
- 5106* history
+ 5106  history
  5107  ./script-fredistefan.sh
- 5108* df --help
+ 5108  df --help
  5109  clear
  5110  ./script-fredistefan.sh
- 5111* time
- 5112* clock
- 5113* current_time=$(date +"%T")\necho "Current time: $current_time"
- 5114* date
- 5115* ping 8.8.8.8
+ 5111  time
+ 5112  clock
+ 5113  current_time=$(date +"%T")\necho "Current time: $current_time"
+ 5114  date
+ 5115  ping 8.8.8.8
  5116  ./script-fredistefan.sh
  5117  clear
  5118  ls
@@ -5145,3 +5145,25 @@
  5145  cd linux-system-administrator
  5146  ls
  5147  cd submission
+ 5148  history > history.txt
+ 5149  cd ..
+ 5150  ls
+ 5151  git add .
+ 5152  git status
+ 5153  git commit -m 'add history'
+ 5154  git push
+ 5155  ping 8.8.8.8
+ 5156  clar
+ 5157  clear
+ 5158  history
+ 5159  clear
+ 5160  ls
+ 5161  cd linux-system-administrator
+ 5162  ls
+ 5163  clear
+ 5164  ls
+ 5165  cd submission
+ 5166  ls
+ 5167  zip -h
+ 5168  ls
+ 5169  history

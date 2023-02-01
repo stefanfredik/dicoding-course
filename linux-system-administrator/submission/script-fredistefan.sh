@@ -17,7 +17,7 @@ while true; do
 
     echo "Disk Free : "
     echo "---------------------------------------------------"
-    df -h                    # berfungsi untuk menampilakan  disk free dalam format yang mudah dibaca.
+    df -B G                  # berfungsi untuk menampilakan  disk free dalam format giga  byte. Opsi B (Block Size) merupakan pilihan satuan yng ingin ditampilkan
     sleep 3                  # memberi waktu jedah selama 3 detik
     echo -e "\n"             # membuat baris kosong menggunakan string \n
 
